@@ -1,0 +1,8 @@
+﻿Record,Population,Depth,Duration,Source,Use
+B optimization,530 original A/B junctions,mean of native per-node maximum ponded depths; zero for unflooded,mean native accumulated flooding hours,Model B/run/r/evals.csv; B.metrics.json,search and final selection
+A-B-C current comparison,521 fixed permanent junctions; all 9 candidate outlets excluded,same native depth definition,same native flooding definition,Model B/current/data; raw Model B/run/r/A.metrics.json and B.metrics.json; Model B/run/C.json,main text and new comparison figures
+E current comparison,same 521 fixed junctions,same native depth definition; peak_node_ft is separately retained,same native flooding definition,Model E/cost/data; cost/evidence/inputs_complete2.zip,cost-aligned SI; apply numerical flags
+Older B/C comparison,525 common junctions,read original definitions; some legacy RPT tables use other metrics,read original definitions,Model B/run/d; Model C/run; Model C/legacy,"historical reference only, not current manuscript statistics"
+Node maximum depth,521 common junctions in current E refs,native maximum depth above invert; distinct from ponded depth,not applicable,Model E/cost/data/refs.csv and nodes.csv,secondary indicator
+Event response,521 junctions; all actual outfalls summed,instantaneous ponding sampled every 60 s,3-hour simulation window,Model B/current/data/event.csv; native A/B/C binary OUT files,"event plot, not replacement for routing-statistic maxima"
+Cost,enlarged existing conduits only,11.7 + 0.51 D_in^1.38 USD/ft times length and barrels,1997 base price; 12-54 in fit range,Model B/run/costs.py; Model E/cost/data/changes.csv,component-cost proxy; flagged extrapolation; excludes excavation and outfalls

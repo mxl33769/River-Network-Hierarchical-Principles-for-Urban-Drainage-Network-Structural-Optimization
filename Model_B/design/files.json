@@ -1,0 +1,90 @@
+{
+  "README.md": {
+    "bytes": 2275,
+    "sha256": "3a0ed684e9c7eb40c24a853aaddbe4d1ef91c36a30dfbd1749a3f6094efd02af"
+  },
+  "requirements.txt": {
+    "bytes": 32,
+    "sha256": "66099f2ce19ef46b823a186202fb915a040d028f3fa73c5b1196ce51d0eb87aa"
+  },
+  "plot.py": {
+    "bytes": 11244,
+    "sha256": "78525fdf377c9e9aecd69c91abea99f43444f9544ee17802321c7c6d1a057ef0"
+  },
+  "inp/C.inp": {
+    "bytes": 212289,
+    "sha256": "f4e8430b88520d8879cb3863b1dffb8644a290c9b919605b94ed411c6b17ca85"
+  },
+  "inp/A.inp": {
+    "bytes": 257470,
+    "sha256": "1a0b7f4d3bde8ff667156b62ceab0a595e3773b664679fae3c9030104db23bb5"
+  },
+  "inp/B.inp": {
+    "bytes": 255279,
+    "sha256": "008c43ab94ee994f6ddc3544dcb609ffd952126db9384c456c04127bd3f7242e"
+  },
+  "d/nodes.csv": {
+    "bytes": 67222,
+    "sha256": "765e57f931d5040a8083d00cfa6e7711c500fd9e1b4adb8fb0782edeb302c224"
+  },
+  "d/vertices.csv": {
+    "bytes": 77236,
+    "sha256": "3e0e2e6aa1131875a845eb2b37a1cbf1edadd5a1258dde1574b1c9a9b532a840"
+  },
+  "d/pipes.csv": {
+    "bytes": 127711,
+    "sha256": "c71dc9268ecc47286f3625befb4d17575635684135fe00cfc86aae1a005c397d"
+  },
+  "d/audit.json": {
+    "bytes": 1131,
+    "sha256": "855ff47eb4f80600dbe59f46b3fb5ce6d66d0b33e4149d2994db862a701bf4b4"
+  },
+  "fig/BC_color.svg": {
+    "bytes": 892203,
+    "sha256": "135fc77aa5971940c76214347ce9544edf6008247de38fc4964098df127c337d"
+  },
+  "fig/BC_color.png": {
+    "bytes": 2804914,
+    "sha256": "a7ca3222e0b81b5b280440412778f9dafe41a9a3673d84666a3211733ec8a92b"
+  },
+  "fig/B_color.png": {
+    "bytes": 1760472,
+    "sha256": "77cc403bdf218c58b4a69091d90c884eae35ab9a310c6518fb906cfcae0381ae"
+  },
+  "fig/B_color.pdf": {
+    "bytes": 129354,
+    "sha256": "c0982c32b51aaa9827c186c14b76d091fd4dad02939c9736800e5d57da14e6da"
+  },
+  "fig/C_color.png": {
+    "bytes": 1813404,
+    "sha256": "d12f503ad7109889099b95851505a718f90593328f734d80cf65db1342d4b0a1"
+  },
+  "fig/ABC_color.svg": {
+    "bytes": 1338229,
+    "sha256": "b1c1f570944ca3c6aca256b8907af8decdd6a31f8b6a4e7e1d6af98d6d863130"
+  },
+  "fig/ABC_color.png": {
+    "bytes": 4506260,
+    "sha256": "b35266a793c3fcee208acd6862fab9a8c89efa5776fb667ea86450c1fffd80b8"
+  },
+  "fig/C_color.svg": {
+    "bytes": 456027,
+    "sha256": "c2646199d07d464f71cddd523e9f16915916ac4991bdf88c1390fbfd340b0034"
+  },
+  "fig/BC_color.pdf": {
+    "bytes": 228738,
+    "sha256": "227f3e9bd22b1ede499877de41892cd332fdf072027d078de56158c105c903c0"
+  },
+  "fig/C_color.pdf": {
+    "bytes": 128725,
+    "sha256": "af7419d85fec4199a2954c054af54dc271184f0a4669e93126f2383a13f70132"
+  },
+  "fig/B_color.svg": {
+    "bytes": 457120,
+    "sha256": "38b9023f44f3eafe862fa7423e9e3410ec166761dd129d942ed92454f95758db"
+  },
+  "fig/ABC_color.pdf": {
+    "bytes": 326540,
+    "sha256": "ba1e74b93c9a1074306037844b04d22719e9cc99f02318df12fb2c28b342443b"
+  }
+}

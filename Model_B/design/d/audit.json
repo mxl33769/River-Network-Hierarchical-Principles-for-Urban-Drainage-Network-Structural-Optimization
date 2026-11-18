@@ -1,0 +1,56 @@
+{
+  "models": "Verified cost-constrained B e04701 and unchanged C201; A is diameter reference",
+  "source_sha256": {
+    "A": "1a0b7f4d3bde8ff667156b62ceab0a595e3773b664679fae3c9030104db23bb5",
+    "B": "008c43ab94ee994f6ddc3544dcb609ffd952126db9384c456c04127bd3f7242e",
+    "C201": "f4e8430b88520d8879cb3863b1dffb8644a290c9b919605b94ed411c6b17ca85"
+  },
+  "modified_pipe_counts": {
+    "A": 0,
+    "B": 36,
+    "C201": 45
+  },
+  "maximum_diameter_increase_mm": {
+    "A": 0.0,
+    "B": 942.8000000004961,
+    "C201": 593.320000000248
+  },
+  "color_scale_mm": [
+    0,
+    1000.0
+  ],
+  "width_classes_upper_mm": [
+    150.0,
+    300.0,
+    600.0,
+    900.0,
+    1200.0,
+    1600.0
+  ],
+  "line_width_points": [
+    0.5,
+    0.8,
+    1.25,
+    1.85,
+    2.55,
+    3.3
+  ],
+  "node_invert_class_bounds_ft": [
+    -12.0,
+    -6.0,
+    0.0,
+    6.0,
+    12.0,
+    17.0
+  ],
+  "node_marker_area_pt2": [
+    32.0,
+    23.0,
+    15.0,
+    8.0,
+    3.5
+  ],
+  "dpi": 600,
+  "model_geometry_modified": false,
+  "note": "Pipe colors show diameter increase only. Gray pipes may still have changed invert elevations or orientation in C201."
+}

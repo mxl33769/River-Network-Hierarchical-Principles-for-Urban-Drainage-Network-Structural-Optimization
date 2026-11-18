@@ -1,0 +1,19 @@
+{
+  "cost_unit_tests_passed": 5,
+  "checkpoint_test_population": 8,
+  "checkpoint_test_generations": 2,
+  "stopped_after_generation": 1,
+  "resumed_population_archive_genes_and_selected_inp_identical": true,
+  "resumed_fresh_metrics_identical": true,
+  "C201_fresh_run_reproduced": true,
+  "C201_nonconverging_pct": 6.73,
+  "C201_passes_5pct_screen": false,
+  "completed_generations": 50,
+  "recovered_records": 5000,
+  "all_generation_archives_verified": true,
+  "fresh_A_B_C201_all_nodes_reproduced": true,
+  "replayed_candidate": "e00001",
+  "replayed_candidate_hash_and_objectives_match": true,
+  "workbook_summary_formula_checks": 39,
+  "workbook_paired_node_class_checks": 1575
+}

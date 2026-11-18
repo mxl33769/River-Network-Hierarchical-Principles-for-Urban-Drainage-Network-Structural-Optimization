@@ -1,0 +1,4220 @@
+{
+  "success": true,
+  "engine_version": 52004,
+  "flow_units": "CFS",
+  "steps_not_converging_pct": 6.73,
+  "mean_maximum_ponded_depth_ft": 18.57386563468355,
+  "mean_hours_flooded": 1.761169025396823,
+  "network_maximum_ponded_depth_ft": 122.85385115812456,
+  "network_maximum_hours_flooded": 2.1860108333333303,
+  "junction_count": 525,
+  "runoff_continuity_error_pct": -0.04476025328040123,
+  "flow_continuity_error_pct": 0.34236589074134827,
+  "steps": 3044,
+  "last_positive_elapsed_days": 0.12499787037037037,
+  "wall_seconds": 2.015048907999926,
+  "nodes_ponded_at_simulation_end": 475,
+  "warnings": [],
+  "nodes": [
+    {
+      "Node": "1",
+      "MaximumPondedDepth_ft": 39.93121365211356,
+      "HoursFlooded": 2.1860108333333303,
+      "MaximumNodeDepth_ft": 41.08121365211356,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 38.60915615651478
+    },
+    {
+      "Node": "2",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 24.55929274933791,
+      "FullDepth_ft": 27.43801,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "3",
+      "MaximumPondedDepth_ft": 22.256201633134477,
+      "HoursFlooded": 1.888658611111108,
+      "MaximumNodeDepth_ft": 23.75420163313448,
+      "FullDepth_ft": 1.498,
+      "FinalPondedDepth_ft": 20.151474862300017
+    },
+    {
+      "Node": "4",
+      "MaximumPondedDepth_ft": 12.154110993106563,
+      "HoursFlooded": 1.611291666666665,
+      "MaximumNodeDepth_ft": 13.989110993106564,
+      "FullDepth_ft": 1.835,
+      "FinalPondedDepth_ft": 11.576380197345205
+    },
+    {
+      "Node": "5",
+      "MaximumPondedDepth_ft": 10.71260881977855,
+      "HoursFlooded": 1.550946944444443,
+      "MaximumNodeDepth_ft": 12.60460881977855,
+      "FullDepth_ft": 1.892,
+      "FinalPondedDepth_ft": 10.078202073391235
+    },
+    {
+      "Node": "6",
+      "MaximumPondedDepth_ft": 8.990849419675545,
+      "HoursFlooded": 1.515224166666665,
+      "MaximumNodeDepth_ft": 11.196849419675544,
+      "FullDepth_ft": 2.206,
+      "FinalPondedDepth_ft": 6.796179358442039
+    },
+    {
+      "Node": "7",
+      "MaximumPondedDepth_ft": 5.593562329448821,
+      "HoursFlooded": 1.4119863888888868,
+      "MaximumNodeDepth_ft": 8.054562329448821,
+      "FullDepth_ft": 2.461,
+      "FinalPondedDepth_ft": 2.332363909999478
+    },
+    {
+      "Node": "8",
+      "MaximumPondedDepth_ft": 0.17230417084327243,
+      "HoursFlooded": 0.15416666666666667,
+      "MaximumNodeDepth_ft": 26.635314170843273,
+      "FullDepth_ft": 26.46301,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "9",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 26.592518526682177,
+      "FullDepth_ft": 26.71301,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "10",
+      "MaximumPondedDepth_ft": 22.20709149749109,
+      "HoursFlooded": 1.9494719444444415,
+      "MaximumNodeDepth_ft": 23.357091497491087,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 18.664120899096353
+    },
+    {
+      "Node": "11",
+      "MaximumPondedDepth_ft": 17.05758624470177,
+      "HoursFlooded": 2.1431919444444416,
+      "MaximumNodeDepth_ft": 18.439586244701772,
+      "FullDepth_ft": 1.382,
+      "FinalPondedDepth_ft": 17.05758624470177
+    },
+    {
+      "Node": "12",
+      "MaximumPondedDepth_ft": 65.36334524653103,
+      "HoursFlooded": 2.149921388888886,
+      "MaximumNodeDepth_ft": 66.51334524653103,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 61.46267235704439
+    },
+    {
+      "Node": "13",
+      "MaximumPondedDepth_ft": 20.247344225136967,
+      "HoursFlooded": 2.0640166666666637,
+      "MaximumNodeDepth_ft": 21.679344225136965,
+      "FullDepth_ft": 1.432,
+      "FinalPondedDepth_ft": 18.594461954200437
+    },
+    {
+      "Node": "14",
+      "MaximumPondedDepth_ft": 18.161080851518424,
+      "HoursFlooded": 2.0559069444444416,
+      "MaximumNodeDepth_ft": 19.793080851518425,
+      "FullDepth_ft": 1.632,
+      "FinalPondedDepth_ft": 18.161080851518424
+    },
+    {
+      "Node": "15",
+      "MaximumPondedDepth_ft": 18.483848806354676,
+      "HoursFlooded": 2.0552452777777748,
+      "MaximumNodeDepth_ft": 20.445848806354675,
+      "FullDepth_ft": 1.962,
+      "FinalPondedDepth_ft": 18.483848806354676
+    },
+    {
+      "Node": "16",
+      "MaximumPondedDepth_ft": 18.496970599228792,
+      "HoursFlooded": 2.041276666666664,
+      "MaximumNodeDepth_ft": 20.610970599228793,
+      "FullDepth_ft": 2.114,
+      "FinalPondedDepth_ft": 18.496970599228792
+    },
+    {
+      "Node": "17",
+      "MaximumPondedDepth_ft": 19.09426452710248,
+      "HoursFlooded": 2.0371324999999967,
+      "MaximumNodeDepth_ft": 21.36026452710248,
+      "FullDepth_ft": 2.266,
+      "FinalPondedDepth_ft": 19.09426452710248
+    },
+    {
+      "Node": "18",
+      "MaximumPondedDepth_ft": 20.83754205310803,
+      "HoursFlooded": 2.0345830555555526,
+      "MaximumNodeDepth_ft": 23.388542053108033,
+      "FullDepth_ft": 2.551,
+      "FinalPondedDepth_ft": 20.83754205310803
+    },
+    {
+      "Node": "19",
+      "MaximumPondedDepth_ft": 24.72279885339302,
+      "HoursFlooded": 1.9905780555555526,
+      "MaximumNodeDepth_ft": 27.57779885339302,
+      "FullDepth_ft": 2.855,
+      "FinalPondedDepth_ft": 24.72279885339302
+    },
+    {
+      "Node": "20",
+      "MaximumPondedDepth_ft": 27.639558187875306,
+      "HoursFlooded": 1.990036111111108,
+      "MaximumNodeDepth_ft": 30.735558187875306,
+      "FullDepth_ft": 3.096,
+      "FinalPondedDepth_ft": 27.639558187875306
+    },
+    {
+      "Node": "21",
+      "MaximumPondedDepth_ft": 27.047670022612564,
+      "HoursFlooded": 2.0140661111111084,
+      "MaximumNodeDepth_ft": 28.197670022612563,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 24.662441837575123
+    },
+    {
+      "Node": "22",
+      "MaximumPondedDepth_ft": 12.424908456484571,
+      "HoursFlooded": 1.9699136111111082,
+      "MaximumNodeDepth_ft": 13.86490845648457,
+      "FullDepth_ft": 1.44,
+      "FinalPondedDepth_ft": 12.424908456484571
+    },
+    {
+      "Node": "23",
+      "MaximumPondedDepth_ft": 18.66886144473093,
+      "HoursFlooded": 1.9826191666666637,
+      "MaximumNodeDepth_ft": 19.818861444730928,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 18.66886144473093
+    },
+    {
+      "Node": "24",
+      "MaximumPondedDepth_ft": 12.540271646454853,
+      "HoursFlooded": 1.9995852777777747,
+      "MaximumNodeDepth_ft": 13.980271646454852,
+      "FullDepth_ft": 1.44,
+      "FinalPondedDepth_ft": 12.540271646454853
+    },
+    {
+      "Node": "25",
+      "MaximumPondedDepth_ft": 37.448201326780996,
+      "HoursFlooded": 2.0837130555555525,
+      "MaximumNodeDepth_ft": 38.598201326780995,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 36.90675696699355
+    },
+    {
+      "Node": "26",
+      "MaximumPondedDepth_ft": 46.70281804057274,
+      "HoursFlooded": 2.1757805555555527,
+      "MaximumNodeDepth_ft": 48.19281804057274,
+      "FullDepth_ft": 1.49,
+      "FinalPondedDepth_ft": 43.4149145882265
+    },
+    {
+      "Node": "27",
+      "MaximumPondedDepth_ft": 33.088205858517874,
+      "HoursFlooded": 1.9927199999999972,
+      "MaximumNodeDepth_ft": 34.70820585851787,
+      "FullDepth_ft": 1.62,
+      "FinalPondedDepth_ft": 31.475805170909158
+    },
+    {
+      "Node": "28",
+      "MaximumPondedDepth_ft": 18.498204874301695,
+      "HoursFlooded": 2.0924369444444415,
+      "MaximumNodeDepth_ft": 20.170204874301696,
+      "FullDepth_ft": 1.672,
+      "FinalPondedDepth_ft": 18.498204874301695
+    },
+    {
+      "Node": "29",
+      "MaximumPondedDepth_ft": 26.23387075686916,
+      "HoursFlooded": 2.0694166666666636,
+      "MaximumNodeDepth_ft": 28.398870756869158,
+      "FullDepth_ft": 2.165,
+      "FinalPondedDepth_ft": 21.534271802465547
+    },
+    {
+      "Node": "30",
+      "MaximumPondedDepth_ft": 19.28232123402288,
+      "HoursFlooded": 1.788809444444442,
+      "MaximumNodeDepth_ft": 21.80132123402288,
+      "FullDepth_ft": 2.519,
+      "FinalPondedDepth_ft": 19.22556100643881
+    },
+    {
+      "Node": "31",
+      "MaximumPondedDepth_ft": 46.674307183458126,
+      "HoursFlooded": 2.1219802777777748,
+      "MaximumNodeDepth_ft": 48.55180718345812,
+      "FullDepth_ft": 1.8775,
+      "FinalPondedDepth_ft": 43.04588848098393
+    },
+    {
+      "Node": "32",
+      "MaximumPondedDepth_ft": 31.917216784565465,
+      "HoursFlooded": 2.013293888888886,
+      "MaximumNodeDepth_ft": 34.124716784565464,
+      "FullDepth_ft": 2.2075,
+      "FinalPondedDepth_ft": 31.917216784565465
+    },
+    {
+      "Node": "33",
+      "MaximumPondedDepth_ft": 28.440504649071414,
+      "HoursFlooded": 2.000541388888886,
+      "MaximumNodeDepth_ft": 30.848004649071413,
+      "FullDepth_ft": 2.4075,
+      "FinalPondedDepth_ft": 28.440504649071414
+    },
+    {
+      "Node": "34",
+      "MaximumPondedDepth_ft": 27.78008269008848,
+      "HoursFlooded": 1.975502499999997,
+      "MaximumNodeDepth_ft": 30.657582690088482,
+      "FullDepth_ft": 2.8775,
+      "FinalPondedDepth_ft": 27.78008269008848
+    },
+    {
+      "Node": "35",
+      "MaximumPondedDepth_ft": 27.789895024144556,
+      "HoursFlooded": 1.9736572222222193,
+      "MaximumNodeDepth_ft": 30.803395024144557,
+      "FullDepth_ft": 3.0135,
+      "FinalPondedDepth_ft": 27.789895024144556
+    },
+    {
+      "Node": "36",
+      "MaximumPondedDepth_ft": 18.82127475946054,
+      "HoursFlooded": 1.9942844444444414,
+      "MaximumNodeDepth_ft": 20.43527475946054,
+      "FullDepth_ft": 1.614,
+      "FinalPondedDepth_ft": 18.82127475946054
+    },
+    {
+      "Node": "37",
+      "MaximumPondedDepth_ft": 28.99381480947542,
+      "HoursFlooded": 1.983348611111108,
+      "MaximumNodeDepth_ft": 32.24281480947542,
+      "FullDepth_ft": 3.249,
+      "FinalPondedDepth_ft": 28.91879836941258
+    },
+    {
+      "Node": "38",
+      "MaximumPondedDepth_ft": 31.192746056756647,
+      "HoursFlooded": 1.9743288888888861,
+      "MaximumNodeDepth_ft": 35.326246056756645,
+      "FullDepth_ft": 4.1335,
+      "FinalPondedDepth_ft": 30.389284735011913
+    },
+    {
+      "Node": "39",
+      "MaximumPondedDepth_ft": 30.89732491666143,
+      "HoursFlooded": 1.9782624999999971,
+      "MaximumNodeDepth_ft": 34.72682491666143,
+      "FullDepth_ft": 3.8295,
+      "FinalPondedDepth_ft": 30.240124737231536
+    },
+    {
+      "Node": "40",
+      "MaximumPondedDepth_ft": 30.38574458501047,
+      "HoursFlooded": 1.9787730555555527,
+      "MaximumNodeDepth_ft": 34.11774458501047,
+      "FullDepth_ft": 3.732,
+      "FinalPondedDepth_ft": 29.969203849944975
+    },
+    {
+      "Node": "41",
+      "MaximumPondedDepth_ft": 28.41688197973475,
+      "HoursFlooded": 1.9773652777777748,
+      "MaximumNodeDepth_ft": 31.68538197973475,
+      "FullDepth_ft": 3.2685,
+      "FinalPondedDepth_ft": 28.41688197973475
+    },
+    {
+      "Node": "42",
+      "MaximumPondedDepth_ft": 0.6565330078370744,
+      "HoursFlooded": 1.2066805555555569,
+      "MaximumNodeDepth_ft": 2.0240330078370743,
+      "FullDepth_ft": 1.3675,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "43",
+      "MaximumPondedDepth_ft": 56.28247464786833,
+      "HoursFlooded": 1.8324141666666638,
+      "MaximumNodeDepth_ft": 57.93197464786833,
+      "FullDepth_ft": 1.6495,
+      "FinalPondedDepth_ft": 42.416735857043804
+    },
+    {
+      "Node": "44",
+      "MaximumPondedDepth_ft": 6.976020523411421,
+      "HoursFlooded": 1.3592086111111081,
+      "MaximumNodeDepth_ft": 9.780020523411421,
+      "FullDepth_ft": 2.804,
+      "FinalPondedDepth_ft": 6.004187778922224
+    },
+    {
+      "Node": "45",
+      "MaximumPondedDepth_ft": 1.3915841643643887,
+      "HoursFlooded": 0.7380038888888895,
+      "MaximumNodeDepth_ft": 26.65459416436439,
+      "FullDepth_ft": 25.26301,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "46",
+      "MaximumPondedDepth_ft": 0.8627536933353213,
+      "HoursFlooded": 0.5458333333333333,
+      "MaximumNodeDepth_ft": 26.77576369333532,
+      "FullDepth_ft": 25.91301,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "47",
+      "MaximumPondedDepth_ft": 1.5457622493978356,
+      "HoursFlooded": 0.814168055555556,
+      "MaximumNodeDepth_ft": 26.008772249397836,
+      "FullDepth_ft": 24.46301,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "48",
+      "MaximumPondedDepth_ft": 1.6131519355767203,
+      "HoursFlooded": 0.8252047222222229,
+      "MaximumNodeDepth_ft": 25.30116193557672,
+      "FullDepth_ft": 23.68801,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "49",
+      "MaximumPondedDepth_ft": 0.8264195170457402,
+      "HoursFlooded": 0.9872994444444447,
+      "MaximumNodeDepth_ft": 2.6289195170457402,
+      "FullDepth_ft": 1.8025,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "50",
+      "MaximumPondedDepth_ft": 22.123399130448856,
+      "HoursFlooded": 1.6829252777777752,
+      "MaximumNodeDepth_ft": 23.787399130448858,
+      "FullDepth_ft": 1.664,
+      "FinalPondedDepth_ft": 13.73812026941737
+    },
+    {
+      "Node": "51",
+      "MaximumPondedDepth_ft": 49.68561464293105,
+      "HoursFlooded": 2.1154952777777747,
+      "MaximumNodeDepth_ft": 51.52361464293105,
+      "FullDepth_ft": 1.838,
+      "FinalPondedDepth_ft": 32.471191035729255
+    },
+    {
+      "Node": "52",
+      "MaximumPondedDepth_ft": 19.78773109792482,
+      "HoursFlooded": 1.948648611111108,
+      "MaximumNodeDepth_ft": 21.85773109792482,
+      "FullDepth_ft": 2.07,
+      "FinalPondedDepth_ft": 19.577215796029975
+    },
+    {
+      "Node": "53",
+      "MaximumPondedDepth_ft": 16.12122035871773,
+      "HoursFlooded": 1.9402419444444414,
+      "MaximumNodeDepth_ft": 18.823220358717727,
+      "FullDepth_ft": 2.702,
+      "FinalPondedDepth_ft": 16.08620363232089
+    },
+    {
+      "Node": "54",
+      "MaximumPondedDepth_ft": 20.504838755050134,
+      "HoursFlooded": 2.1413761111111085,
+      "MaximumNodeDepth_ft": 22.298838755050134,
+      "FullDepth_ft": 1.794,
+      "FinalPondedDepth_ft": 20.504838755050134
+    },
+    {
+      "Node": "55",
+      "MaximumPondedDepth_ft": 12.7025543428353,
+      "HoursFlooded": 2.135961388888886,
+      "MaximumNodeDepth_ft": 14.0845543428353,
+      "FullDepth_ft": 1.382,
+      "FinalPondedDepth_ft": 12.7025543428353
+    },
+    {
+      "Node": "56",
+      "MaximumPondedDepth_ft": 87.21745691309145,
+      "HoursFlooded": 1.7400352777777757,
+      "MaximumNodeDepth_ft": 88.41745691309146,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 61.744985228007224
+    },
+    {
+      "Node": "57",
+      "MaximumPondedDepth_ft": 1.0768018285441947,
+      "HoursFlooded": 0.6297869444444442,
+      "MaximumNodeDepth_ft": 22.564811828544194,
+      "FullDepth_ft": 21.48801,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "58",
+      "MaximumPondedDepth_ft": 1.6165030242662013,
+      "HoursFlooded": 0.8212616666666672,
+      "MaximumNodeDepth_ft": 23.954513024266202,
+      "FullDepth_ft": 22.33801,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "59",
+      "MaximumPondedDepth_ft": 1.6140565602050536,
+      "HoursFlooded": 0.8238047222222229,
+      "MaximumNodeDepth_ft": 24.852066560205053,
+      "FullDepth_ft": 23.23801,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "60",
+      "MaximumPondedDepth_ft": 31.37506205927916,
+      "HoursFlooded": 1.9749030555555525,
+      "MaximumNodeDepth_ft": 35.58356205927916,
+      "FullDepth_ft": 4.2085,
+      "FinalPondedDepth_ft": 30.474920920107195
+    },
+    {
+      "Node": "61",
+      "MaximumPondedDepth_ft": 31.104365036649963,
+      "HoursFlooded": 1.965823611111108,
+      "MaximumNodeDepth_ft": 35.38786503664996,
+      "FullDepth_ft": 4.2835,
+      "FinalPondedDepth_ft": 30.23291571017936
+    },
+    {
+      "Node": "62",
+      "MaximumPondedDepth_ft": 30.66822699413158,
+      "HoursFlooded": 1.9603566666666639,
+      "MaximumNodeDepth_ft": 35.02672699413158,
+      "FullDepth_ft": 4.3585,
+      "FinalPondedDepth_ft": 29.835350435479974
+    },
+    {
+      "Node": "63",
+      "MaximumPondedDepth_ft": 30.19482121138777,
+      "HoursFlooded": 1.947048611111108,
+      "MaximumNodeDepth_ft": 34.92832121138777,
+      "FullDepth_ft": 4.7335,
+      "FinalPondedDepth_ft": 29.38047842203664
+    },
+    {
+      "Node": "64",
+      "MaximumPondedDepth_ft": 30.058707857751067,
+      "HoursFlooded": 1.9464872222222194,
+      "MaximumNodeDepth_ft": 34.85220785775107,
+      "FullDepth_ft": 4.7935,
+      "FinalPondedDepth_ft": 29.243392243059183
+    },
+    {
+      "Node": "65",
+      "MaximumPondedDepth_ft": 29.765614774632134,
+      "HoursFlooded": 1.931939999999997,
+      "MaximumNodeDepth_ft": 34.67911477463213,
+      "FullDepth_ft": 4.9135,
+      "FinalPondedDepth_ft": 28.95396727917172
+    },
+    {
+      "Node": "66",
+      "MaximumPondedDepth_ft": 29.93668018138551,
+      "HoursFlooded": 1.943432499999997,
+      "MaximumNodeDepth_ft": 34.79018018138551,
+      "FullDepth_ft": 4.8535,
+      "FinalPondedDepth_ft": 29.123470614582015
+    },
+    {
+      "Node": "67",
+      "MaximumPondedDepth_ft": 29.603595730723235,
+      "HoursFlooded": 1.9201183333333305,
+      "MaximumNodeDepth_ft": 34.57709573072324,
+      "FullDepth_ft": 4.9735,
+      "FinalPondedDepth_ft": 28.78529925973723
+    },
+    {
+      "Node": "68",
+      "MaximumPondedDepth_ft": 29.32242874603222,
+      "HoursFlooded": 1.9114997222222192,
+      "MaximumNodeDepth_ft": 34.35592874603222,
+      "FullDepth_ft": 5.0335,
+      "FinalPondedDepth_ft": 28.526908232946784
+    },
+    {
+      "Node": "69",
+      "MaximumPondedDepth_ft": 29.060450692438828,
+      "HoursFlooded": 1.8961622222222192,
+      "MaximumNodeDepth_ft": 34.153950692438826,
+      "FullDepth_ft": 5.0935,
+      "FinalPondedDepth_ft": 28.27217261832967
+    },
+    {
+      "Node": "70",
+      "MaximumPondedDepth_ft": 28.748574276148524,
+      "HoursFlooded": 1.882003611111108,
+      "MaximumNodeDepth_ft": 33.902074276148525,
+      "FullDepth_ft": 5.1535,
+      "FinalPondedDepth_ft": 27.95063752376732
+    },
+    {
+      "Node": "71",
+      "MaximumPondedDepth_ft": 28.35379258071195,
+      "HoursFlooded": 1.867081111111108,
+      "MaximumNodeDepth_ft": 33.56729258071195,
+      "FullDepth_ft": 5.2135,
+      "FinalPondedDepth_ft": 27.540342897766802
+    },
+    {
+      "Node": "72",
+      "MaximumPondedDepth_ft": 25.85815191521291,
+      "HoursFlooded": 1.8703708333333302,
+      "MaximumNodeDepth_ft": 30.324151915212912,
+      "FullDepth_ft": 4.466,
+      "FinalPondedDepth_ft": 24.792931813966874
+    },
+    {
+      "Node": "73",
+      "MaximumPondedDepth_ft": 21.312385486821096,
+      "HoursFlooded": 1.9121969444444415,
+      "MaximumNodeDepth_ft": 25.306385486821096,
+      "FullDepth_ft": 3.994,
+      "FinalPondedDepth_ft": 21.077014011877573
+    },
+    {
+      "Node": "74",
+      "MaximumPondedDepth_ft": 18.342415975299534,
+      "HoursFlooded": 1.9109519444444416,
+      "MaximumNodeDepth_ft": 22.081415975299535,
+      "FullDepth_ft": 3.739,
+      "FinalPondedDepth_ft": 18.342415975299534
+    },
+    {
+      "Node": "75",
+      "MaximumPondedDepth_ft": 17.283922220459644,
+      "HoursFlooded": 1.9177522222222192,
+      "MaximumNodeDepth_ft": 20.886922220459645,
+      "FullDepth_ft": 3.603,
+      "FinalPondedDepth_ft": 17.283922220459644
+    },
+    {
+      "Node": "76",
+      "MaximumPondedDepth_ft": 16.39457825044461,
+      "HoursFlooded": 1.9244166666666638,
+      "MaximumNodeDepth_ft": 19.74257825044461,
+      "FullDepth_ft": 3.348,
+      "FinalPondedDepth_ft": 16.39457825044461
+    },
+    {
+      "Node": "77",
+      "MaximumPondedDepth_ft": 16.139513544813518,
+      "HoursFlooded": 1.930507499999997,
+      "MaximumNodeDepth_ft": 19.36001354481352,
+      "FullDepth_ft": 3.2205,
+      "FinalPondedDepth_ft": 16.139513544813518
+    },
+    {
+      "Node": "78",
+      "MaximumPondedDepth_ft": 16.040142943053144,
+      "HoursFlooded": 1.9333580555555525,
+      "MaximumNodeDepth_ft": 19.133142943053144,
+      "FullDepth_ft": 3.093,
+      "FinalPondedDepth_ft": 16.040142943053144
+    },
+    {
+      "Node": "79",
+      "MaximumPondedDepth_ft": 15.986913784752181,
+      "HoursFlooded": 1.932287499999997,
+      "MaximumNodeDepth_ft": 18.95241378475218,
+      "FullDepth_ft": 2.9655,
+      "FinalPondedDepth_ft": 15.986913784752181
+    },
+    {
+      "Node": "80",
+      "MaximumPondedDepth_ft": 15.987535511174876,
+      "HoursFlooded": 1.934294999999997,
+      "MaximumNodeDepth_ft": 18.825535511174877,
+      "FullDepth_ft": 2.838,
+      "FinalPondedDepth_ft": 15.987535511174876
+    },
+    {
+      "Node": "81",
+      "MaximumPondedDepth_ft": 9.131821294330171,
+      "HoursFlooded": 2.1395386111111083,
+      "MaximumNodeDepth_ft": 10.513821294330171,
+      "FullDepth_ft": 1.382,
+      "FinalPondedDepth_ft": 9.131821294330171
+    },
+    {
+      "Node": "82",
+      "MaximumPondedDepth_ft": 15.177833793022618,
+      "HoursFlooded": 2.138167222222219,
+      "MaximumNodeDepth_ft": 16.79183379302262,
+      "FullDepth_ft": 1.614,
+      "FinalPondedDepth_ft": 15.177833793022618
+    },
+    {
+      "Node": "83",
+      "MaximumPondedDepth_ft": 28.999894238776275,
+      "HoursFlooded": 2.1391258333333307,
+      "MaximumNodeDepth_ft": 30.845894238776275,
+      "FullDepth_ft": 1.846,
+      "FinalPondedDepth_ft": 28.707683069889878
+    },
+    {
+      "Node": "84",
+      "MaximumPondedDepth_ft": 34.45029622688937,
+      "HoursFlooded": 2.129341388888886,
+      "MaximumNodeDepth_ft": 36.57829622688937,
+      "FullDepth_ft": 2.128,
+      "FinalPondedDepth_ft": 34.3306352270437
+    },
+    {
+      "Node": "85",
+      "MaximumPondedDepth_ft": 35.35272938893329,
+      "HoursFlooded": 2.0934505555555525,
+      "MaximumNodeDepth_ft": 37.680729388933294,
+      "FullDepth_ft": 2.328,
+      "FinalPondedDepth_ft": 34.81475763815662
+    },
+    {
+      "Node": "86",
+      "MaximumPondedDepth_ft": 44.911541455738025,
+      "HoursFlooded": 2.071639166666664,
+      "MaximumNodeDepth_ft": 47.514541455738026,
+      "FullDepth_ft": 2.603,
+      "FinalPondedDepth_ft": 34.551176639733605
+    },
+    {
+      "Node": "87",
+      "MaximumPondedDepth_ft": 32.443284785886256,
+      "HoursFlooded": 1.9693522222222193,
+      "MaximumNodeDepth_ft": 35.346284785886255,
+      "FullDepth_ft": 2.903,
+      "FinalPondedDepth_ft": 28.49705381982414
+    },
+    {
+      "Node": "88",
+      "MaximumPondedDepth_ft": 25.280555574575292,
+      "HoursFlooded": 1.9125102777777747,
+      "MaximumNodeDepth_ft": 28.519555574575293,
+      "FullDepth_ft": 3.239,
+      "FinalPondedDepth_ft": 24.726401337784505
+    },
+    {
+      "Node": "89",
+      "MaximumPondedDepth_ft": 46.699273274306194,
+      "HoursFlooded": 2.0696169444444417,
+      "MaximumNodeDepth_ft": 48.247273274306195,
+      "FullDepth_ft": 1.548,
+      "FinalPondedDepth_ft": 38.79343588508364
+    },
+    {
+      "Node": "90",
+      "MaximumPondedDepth_ft": 39.670681898864586,
+      "HoursFlooded": 1.952504999999997,
+      "MaximumNodeDepth_ft": 41.46468189886458,
+      "FullDepth_ft": 1.794,
+      "FinalPondedDepth_ft": 36.68744519923304
+    },
+    {
+      "Node": "91",
+      "MaximumPondedDepth_ft": 37.0081909408655,
+      "HoursFlooded": 1.9358974999999972,
+      "MaximumNodeDepth_ft": 38.902190940865495,
+      "FullDepth_ft": 1.894,
+      "FinalPondedDepth_ft": 34.712795129702094
+    },
+    {
+      "Node": "92",
+      "MaximumPondedDepth_ft": 27.681491354320134,
+      "HoursFlooded": 1.8807052777777746,
+      "MaximumNodeDepth_ft": 30.045491354320134,
+      "FullDepth_ft": 2.364,
+      "FinalPondedDepth_ft": 26.132058693347407
+    },
+    {
+      "Node": "93",
+      "MaximumPondedDepth_ft": 26.488055179087837,
+      "HoursFlooded": 1.8536380555555525,
+      "MaximumNodeDepth_ft": 31.29055517908784,
+      "FullDepth_ft": 4.8025,
+      "FinalPondedDepth_ft": 25.31539534552728
+    },
+    {
+      "Node": "94",
+      "MaximumPondedDepth_ft": 27.947804983485028,
+      "HoursFlooded": 1.8514755555555524,
+      "MaximumNodeDepth_ft": 33.22130498348503,
+      "FullDepth_ft": 5.2735,
+      "FinalPondedDepth_ft": 27.095427225828374
+    },
+    {
+      "Node": "95",
+      "MaximumPondedDepth_ft": 39.672415983725045,
+      "HoursFlooded": 1.9431161111111084,
+      "MaximumNodeDepth_ft": 41.620415983725046,
+      "FullDepth_ft": 1.948,
+      "FinalPondedDepth_ft": 30.69019782757568
+    },
+    {
+      "Node": "96",
+      "MaximumPondedDepth_ft": 36.968981910503345,
+      "HoursFlooded": 1.9084949999999972,
+      "MaximumNodeDepth_ft": 39.04448191050334,
+      "FullDepth_ft": 2.0755,
+      "FinalPondedDepth_ft": 29.616593801537896
+    },
+    {
+      "Node": "97",
+      "MaximumPondedDepth_ft": 25.46651477201263,
+      "HoursFlooded": 1.8782255555555525,
+      "MaximumNodeDepth_ft": 26.96651477201263,
+      "FullDepth_ft": 1.5,
+      "FinalPondedDepth_ft": 25.46651477201263
+    },
+    {
+      "Node": "98",
+      "MaximumPondedDepth_ft": 24.81695599024092,
+      "HoursFlooded": 1.7644891666666644,
+      "MaximumNodeDepth_ft": 26.90745599024092,
+      "FullDepth_ft": 2.0905,
+      "FinalPondedDepth_ft": 24.50155893888205
+    },
+    {
+      "Node": "99",
+      "MaximumPondedDepth_ft": 26.13303435437596,
+      "HoursFlooded": 1.8591547222222193,
+      "MaximumNodeDepth_ft": 27.88103435437596,
+      "FullDepth_ft": 1.748,
+      "FinalPondedDepth_ft": 25.658203032544503
+    },
+    {
+      "Node": "100",
+      "MaximumPondedDepth_ft": 8.337831971879936,
+      "HoursFlooded": 1.937036388888886,
+      "MaximumNodeDepth_ft": 10.103331971879935,
+      "FullDepth_ft": 1.7655,
+      "FinalPondedDepth_ft": 7.436967137121122
+    },
+    {
+      "Node": "101",
+      "MaximumPondedDepth_ft": 6.987062099683031,
+      "HoursFlooded": 1.9356044444444416,
+      "MaximumNodeDepth_ft": 8.48506209968303,
+      "FullDepth_ft": 1.498,
+      "FinalPondedDepth_ft": 6.987062099683031
+    },
+    {
+      "Node": "102",
+      "MaximumPondedDepth_ft": 39.03766169473001,
+      "HoursFlooded": 2.155307777777775,
+      "MaximumNodeDepth_ft": 40.81016169473001,
+      "FullDepth_ft": 1.7725,
+      "FinalPondedDepth_ft": 39.02147774695762
+    },
+    {
+      "Node": "103",
+      "MaximumPondedDepth_ft": 41.07130474530438,
+      "HoursFlooded": 2.164503055555553,
+      "MaximumNodeDepth_ft": 42.701304745304384,
+      "FullDepth_ft": 1.63,
+      "FinalPondedDepth_ft": 40.67078482974943
+    },
+    {
+      "Node": "104",
+      "MaximumPondedDepth_ft": 15.653729019658615,
+      "HoursFlooded": 2.1103355555555523,
+      "MaximumNodeDepth_ft": 17.371229019658614,
+      "FullDepth_ft": 1.7175,
+      "FinalPondedDepth_ft": 15.653729019658615
+    },
+    {
+      "Node": "105",
+      "MaximumPondedDepth_ft": 17.249076095882728,
+      "HoursFlooded": 2.1143433333333306,
+      "MaximumNodeDepth_ft": 18.749076095882728,
+      "FullDepth_ft": 1.5,
+      "FinalPondedDepth_ft": 17.249076095882728
+    },
+    {
+      "Node": "106",
+      "MaximumPondedDepth_ft": 24.04793241987793,
+      "HoursFlooded": 2.151713888888886,
+      "MaximumNodeDepth_ft": 25.76343241987793,
+      "FullDepth_ft": 1.7155,
+      "FinalPondedDepth_ft": 24.04793241987793
+    },
+    {
+      "Node": "107",
+      "MaximumPondedDepth_ft": 15.61647945470522,
+      "HoursFlooded": 2.1499088888888864,
+      "MaximumNodeDepth_ft": 17.11447945470522,
+      "FullDepth_ft": 1.498,
+      "FinalPondedDepth_ft": 15.61647945470522
+    },
+    {
+      "Node": "108",
+      "MaximumPondedDepth_ft": 18.10374811514887,
+      "HoursFlooded": 2.133866666666664,
+      "MaximumNodeDepth_ft": 19.50024811514887,
+      "FullDepth_ft": 1.3965,
+      "FinalPondedDepth_ft": 18.10374811514887
+    },
+    {
+      "Node": "109",
+      "MaximumPondedDepth_ft": 43.12554239397007,
+      "HoursFlooded": 2.1324008333333304,
+      "MaximumNodeDepth_ft": 44.949042393970075,
+      "FullDepth_ft": 1.8235,
+      "FinalPondedDepth_ft": 33.6805614403442
+    },
+    {
+      "Node": "110",
+      "MaximumPondedDepth_ft": 9.77577804686654,
+      "HoursFlooded": 2.056894722222219,
+      "MaximumNodeDepth_ft": 11.21577804686654,
+      "FullDepth_ft": 1.44,
+      "FinalPondedDepth_ft": 9.77577804686654
+    },
+    {
+      "Node": "111",
+      "MaximumPondedDepth_ft": 42.34546085661179,
+      "HoursFlooded": 2.146968055555553,
+      "MaximumNodeDepth_ft": 44.545960856611785,
+      "FullDepth_ft": 2.2005,
+      "FinalPondedDepth_ft": 39.23571245898838
+    },
+    {
+      "Node": "112",
+      "MaximumPondedDepth_ft": 57.02899863229401,
+      "HoursFlooded": 2.136533888888886,
+      "MaximumNodeDepth_ft": 59.59149863229401,
+      "FullDepth_ft": 2.5625,
+      "FinalPondedDepth_ft": 40.09864371896019
+    },
+    {
+      "Node": "113",
+      "MaximumPondedDepth_ft": 12.99717474317745,
+      "HoursFlooded": 2.062523611111108,
+      "MaximumNodeDepth_ft": 15.17867474317745,
+      "FullDepth_ft": 2.1815,
+      "FinalPondedDepth_ft": 12.99717474317745
+    },
+    {
+      "Node": "114",
+      "MaximumPondedDepth_ft": 12.788716262718228,
+      "HoursFlooded": 2.0249483333333305,
+      "MaximumNodeDepth_ft": 15.170216262718228,
+      "FullDepth_ft": 2.3815,
+      "FinalPondedDepth_ft": 12.788716262718228
+    },
+    {
+      "Node": "115",
+      "MaximumPondedDepth_ft": 30.806097302721504,
+      "HoursFlooded": 2.105305277777775,
+      "MaximumNodeDepth_ft": 32.920597302721504,
+      "FullDepth_ft": 2.1145,
+      "FinalPondedDepth_ft": 30.806097302721504
+    },
+    {
+      "Node": "116",
+      "MaximumPondedDepth_ft": 6.038089475387235,
+      "HoursFlooded": 1.9232897222222194,
+      "MaximumNodeDepth_ft": 7.420089475387234,
+      "FullDepth_ft": 1.382,
+      "FinalPondedDepth_ft": 6.038089475387235
+    },
+    {
+      "Node": "117",
+      "MaximumPondedDepth_ft": 6.817465879048562,
+      "HoursFlooded": 1.9182263888888857,
+      "MaximumNodeDepth_ft": 9.070465879048562,
+      "FullDepth_ft": 2.253,
+      "FinalPondedDepth_ft": 6.817465879048562
+    },
+    {
+      "Node": "118",
+      "MaximumPondedDepth_ft": 8.765237797188531,
+      "HoursFlooded": 2.10539083333333,
+      "MaximumNodeDepth_ft": 10.14723779718853,
+      "FullDepth_ft": 1.382,
+      "FinalPondedDepth_ft": 8.765237797188531
+    },
+    {
+      "Node": "119",
+      "MaximumPondedDepth_ft": 21.331389341578536,
+      "HoursFlooded": 1.6585138888888862,
+      "MaximumNodeDepth_ft": 23.787389341578535,
+      "FullDepth_ft": 2.456,
+      "FinalPondedDepth_ft": 21.28287424122726
+    },
+    {
+      "Node": "120",
+      "MaximumPondedDepth_ft": 24.586778206444695,
+      "HoursFlooded": 1.7187938888888867,
+      "MaximumNodeDepth_ft": 30.148278206444694,
+      "FullDepth_ft": 5.5615,
+      "FinalPondedDepth_ft": 23.638639794783085
+    },
+    {
+      "Node": "121",
+      "MaximumPondedDepth_ft": 25.397011422380952,
+      "HoursFlooded": 1.7484069444444423,
+      "MaximumNodeDepth_ft": 30.92651142238095,
+      "FullDepth_ft": 5.5295,
+      "FinalPondedDepth_ft": 24.37369363383816
+    },
+    {
+      "Node": "122",
+      "MaximumPondedDepth_ft": 26.285140165740188,
+      "HoursFlooded": 1.7943136111111084,
+      "MaximumNodeDepth_ft": 31.758640165740186,
+      "FullDepth_ft": 5.4735,
+      "FinalPondedDepth_ft": 25.245354000133183
+    },
+    {
+      "Node": "123",
+      "MaximumPondedDepth_ft": 26.442716807184784,
+      "HoursFlooded": 1.8361130555555527,
+      "MaximumNodeDepth_ft": 31.285216807184785,
+      "FullDepth_ft": 4.8425,
+      "FinalPondedDepth_ft": 25.30252826768246
+    },
+    {
+      "Node": "124",
+      "MaximumPondedDepth_ft": 5.786593336955651,
+      "HoursFlooded": 1.2578461111111083,
+      "MaximumNodeDepth_ft": 26.27459733695565,
+      "FullDepth_ft": 20.488004,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "125",
+      "MaximumPondedDepth_ft": 22.7111545148152,
+      "HoursFlooded": 2.132920277777775,
+      "MaximumNodeDepth_ft": 25.0551545148152,
+      "FullDepth_ft": 2.344,
+      "FinalPondedDepth_ft": 22.7111545148152
+    },
+    {
+      "Node": "126",
+      "MaximumPondedDepth_ft": 24.039303951562072,
+      "HoursFlooded": 2.131758055555553,
+      "MaximumNodeDepth_ft": 26.583303951562073,
+      "FullDepth_ft": 2.544,
+      "FinalPondedDepth_ft": 24.039303951562072
+    },
+    {
+      "Node": "127",
+      "MaximumPondedDepth_ft": 26.16612966859673,
+      "HoursFlooded": 2.1321733333333306,
+      "MaximumNodeDepth_ft": 28.81012966859673,
+      "FullDepth_ft": 2.644,
+      "FinalPondedDepth_ft": 25.757056695331762
+    },
+    {
+      "Node": "128",
+      "MaximumPondedDepth_ft": 61.90196749412864,
+      "HoursFlooded": 2.131724444444442,
+      "MaximumNodeDepth_ft": 64.84596749412864,
+      "FullDepth_ft": 2.944,
+      "FinalPondedDepth_ft": 33.07596436022371
+    },
+    {
+      "Node": "129",
+      "MaximumPondedDepth_ft": 46.92826453689377,
+      "HoursFlooded": 2.106932499999997,
+      "MaximumNodeDepth_ft": 50.07226453689377,
+      "FullDepth_ft": 3.144,
+      "FinalPondedDepth_ft": 32.58547264715805
+    },
+    {
+      "Node": "130",
+      "MaximumPondedDepth_ft": 31.630857224362664,
+      "HoursFlooded": 2.0603194444444415,
+      "MaximumNodeDepth_ft": 34.926857224362664,
+      "FullDepth_ft": 3.296,
+      "FinalPondedDepth_ft": 28.17008269633832
+    },
+    {
+      "Node": "131",
+      "MaximumPondedDepth_ft": 23.59619665347917,
+      "HoursFlooded": 1.9839730555555526,
+      "MaximumNodeDepth_ft": 27.04419665347917,
+      "FullDepth_ft": 3.448,
+      "FinalPondedDepth_ft": 23.44873112756524
+    },
+    {
+      "Node": "132",
+      "MaximumPondedDepth_ft": 22.150288754465535,
+      "HoursFlooded": 1.9462922222222192,
+      "MaximumNodeDepth_ft": 25.750288754465537,
+      "FullDepth_ft": 3.6,
+      "FinalPondedDepth_ft": 22.04504401151455
+    },
+    {
+      "Node": "133",
+      "MaximumPondedDepth_ft": 21.947336116543497,
+      "HoursFlooded": 1.8955955555555526,
+      "MaximumNodeDepth_ft": 25.969336116543495,
+      "FullDepth_ft": 4.022,
+      "FinalPondedDepth_ft": 21.800191492375475
+    },
+    {
+      "Node": "134",
+      "MaximumPondedDepth_ft": 20.935825059221504,
+      "HoursFlooded": 1.884208611111108,
+      "MaximumNodeDepth_ft": 25.061825059221505,
+      "FullDepth_ft": 4.126,
+      "FinalPondedDepth_ft": 20.711819185287904
+    },
+    {
+      "Node": "135",
+      "MaximumPondedDepth_ft": 20.331408663753496,
+      "HoursFlooded": 1.8607794444444417,
+      "MaximumNodeDepth_ft": 24.561408663753497,
+      "FullDepth_ft": 4.23,
+      "FinalPondedDepth_ft": 19.9917347999915
+    },
+    {
+      "Node": "136",
+      "MaximumPondedDepth_ft": 20.050887399237656,
+      "HoursFlooded": 1.8313991666666638,
+      "MaximumNodeDepth_ft": 24.384887399237655,
+      "FullDepth_ft": 4.334,
+      "FinalPondedDepth_ft": 19.556230845547777
+    },
+    {
+      "Node": "137",
+      "MaximumPondedDepth_ft": 20.03477271165565,
+      "HoursFlooded": 1.8073274999999969,
+      "MaximumNodeDepth_ft": 24.472772711655647,
+      "FullDepth_ft": 4.438,
+      "FinalPondedDepth_ft": 19.385074593247534
+    },
+    {
+      "Node": "138",
+      "MaximumPondedDepth_ft": 20.034423639721282,
+      "HoursFlooded": 1.76388222222222,
+      "MaximumNodeDepth_ft": 24.576423639721284,
+      "FullDepth_ft": 4.542,
+      "FinalPondedDepth_ft": 19.30360454488637
+    },
+    {
+      "Node": "139",
+      "MaximumPondedDepth_ft": 20.04521758439185,
+      "HoursFlooded": 1.6995919444444418,
+      "MaximumNodeDepth_ft": 24.69121758439185,
+      "FullDepth_ft": 4.646,
+      "FinalPondedDepth_ft": 19.252856209685163
+    },
+    {
+      "Node": "140",
+      "MaximumPondedDepth_ft": 20.12718276594701,
+      "HoursFlooded": 1.639069444444442,
+      "MaximumNodeDepth_ft": 25.880682765947007,
+      "FullDepth_ft": 5.7535,
+      "FinalPondedDepth_ft": 19.234240070460483
+    },
+    {
+      "Node": "141",
+      "MaximumPondedDepth_ft": 18.766264487778265,
+      "HoursFlooded": 1.591847222222221,
+      "MaximumNodeDepth_ft": 24.575764487778265,
+      "FullDepth_ft": 5.8095,
+      "FinalPondedDepth_ft": 17.670470604933456
+    },
+    {
+      "Node": "142",
+      "MaximumPondedDepth_ft": 21.239233941016003,
+      "HoursFlooded": 2.1228836111111082,
+      "MaximumNodeDepth_ft": 23.346233941016003,
+      "FullDepth_ft": 2.107,
+      "FinalPondedDepth_ft": 21.089495085967478
+    },
+    {
+      "Node": "143",
+      "MaximumPondedDepth_ft": 8.204923637522722,
+      "HoursFlooded": 1.9275305555555526,
+      "MaximumNodeDepth_ft": 11.082923637522722,
+      "FullDepth_ft": 2.878,
+      "FinalPondedDepth_ft": 8.204923637522722
+    },
+    {
+      "Node": "144",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.875,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "145",
+      "MaximumPondedDepth_ft": 25.060800246743078,
+      "HoursFlooded": 2.033736111111108,
+      "MaximumNodeDepth_ft": 27.669300246743077,
+      "FullDepth_ft": 2.6085,
+      "FinalPondedDepth_ft": 24.966008842215338
+    },
+    {
+      "Node": "146",
+      "MaximumPondedDepth_ft": 12.751241498653991,
+      "HoursFlooded": 2.0107083333333304,
+      "MaximumNodeDepth_ft": 15.78274149865399,
+      "FullDepth_ft": 3.0315,
+      "FinalPondedDepth_ft": 12.751241498653991
+    },
+    {
+      "Node": "147",
+      "MaximumPondedDepth_ft": 11.04247927526633,
+      "HoursFlooded": 2.0216913888888857,
+      "MaximumNodeDepth_ft": 12.94647927526633,
+      "FullDepth_ft": 1.904,
+      "FinalPondedDepth_ft": 11.04247927526633
+    },
+    {
+      "Node": "148",
+      "MaximumPondedDepth_ft": 19.521316296474367,
+      "HoursFlooded": 1.8387380555555526,
+      "MaximumNodeDepth_ft": 22.577816296474367,
+      "FullDepth_ft": 3.0565,
+      "FinalPondedDepth_ft": 19.381739637971023
+    },
+    {
+      "Node": "149",
+      "MaximumPondedDepth_ft": 7.079746591923261,
+      "HoursFlooded": 1.8380966666666636,
+      "MaximumNodeDepth_ft": 8.98374659192326,
+      "FullDepth_ft": 1.904,
+      "FinalPondedDepth_ft": 7.079746591923261
+    },
+    {
+      "Node": "150",
+      "MaximumPondedDepth_ft": 26.76403704686754,
+      "HoursFlooded": 2.0550508333333304,
+      "MaximumNodeDepth_ft": 28.95803704686754,
+      "FullDepth_ft": 2.194,
+      "FinalPondedDepth_ft": 22.31806904687298
+    },
+    {
+      "Node": "151",
+      "MaximumPondedDepth_ft": 17.51356423327031,
+      "HoursFlooded": 2.026722777777775,
+      "MaximumNodeDepth_ft": 19.98706423327031,
+      "FullDepth_ft": 2.4735,
+      "FinalPondedDepth_ft": 17.51356423327031
+    },
+    {
+      "Node": "152",
+      "MaximumPondedDepth_ft": 35.67946768157185,
+      "HoursFlooded": 2.1142122222222195,
+      "MaximumNodeDepth_ft": 38.02446768157185,
+      "FullDepth_ft": 2.345,
+      "FinalPondedDepth_ft": 30.733482359944034
+    },
+    {
+      "Node": "153",
+      "MaximumPondedDepth_ft": 15.15288890248982,
+      "HoursFlooded": 2.1096049999999966,
+      "MaximumNodeDepth_ft": 17.08588890248982,
+      "FullDepth_ft": 1.933,
+      "FinalPondedDepth_ft": 15.15288890248982
+    },
+    {
+      "Node": "154",
+      "MaximumPondedDepth_ft": 7.606940040675736,
+      "HoursFlooded": 2.077074444444442,
+      "MaximumNodeDepth_ft": 9.887940040675737,
+      "FullDepth_ft": 2.281,
+      "FinalPondedDepth_ft": 7.606940040675736
+    },
+    {
+      "Node": "155",
+      "MaximumPondedDepth_ft": 11.203311460847612,
+      "HoursFlooded": 2.0963369444444413,
+      "MaximumNodeDepth_ft": 13.411811460847613,
+      "FullDepth_ft": 2.2085,
+      "FinalPondedDepth_ft": 11.203311460847612
+    },
+    {
+      "Node": "156",
+      "MaximumPondedDepth_ft": 32.71165398700611,
+      "HoursFlooded": 2.1717272222222195,
+      "MaximumNodeDepth_ft": 34.441653987006106,
+      "FullDepth_ft": 1.73,
+      "FinalPondedDepth_ft": 30.550323710225687
+    },
+    {
+      "Node": "157",
+      "MaximumPondedDepth_ft": 4.825919738031596,
+      "HoursFlooded": 2.1026877777777746,
+      "MaximumNodeDepth_ft": 6.207919738031595,
+      "FullDepth_ft": 1.382,
+      "FinalPondedDepth_ft": 4.825919738031596
+    },
+    {
+      "Node": "158",
+      "MaximumPondedDepth_ft": 2.4880051884363326,
+      "HoursFlooded": 2.0790530555555526,
+      "MaximumNodeDepth_ft": 3.986005188436333,
+      "FullDepth_ft": 1.498,
+      "FinalPondedDepth_ft": 2.4880051884363326
+    },
+    {
+      "Node": "159",
+      "MaximumPondedDepth_ft": 37.97006809201924,
+      "HoursFlooded": 2.151123888888886,
+      "MaximumNodeDepth_ft": 39.60006809201924,
+      "FullDepth_ft": 1.63,
+      "FinalPondedDepth_ft": 37.5888263883345
+    },
+    {
+      "Node": "160",
+      "MaximumPondedDepth_ft": 37.72304976116712,
+      "HoursFlooded": 2.147525277777775,
+      "MaximumNodeDepth_ft": 39.55304976116712,
+      "FullDepth_ft": 1.83,
+      "FinalPondedDepth_ft": 37.024321125757254
+    },
+    {
+      "Node": "161",
+      "MaximumPondedDepth_ft": 9.302648500988237,
+      "HoursFlooded": 1.435445555555554,
+      "MaximumNodeDepth_ft": 28.64065250098824,
+      "FullDepth_ft": 19.338004,
+      "FinalPondedDepth_ft": 2.3556342800509746
+    },
+    {
+      "Node": "162",
+      "MaximumPondedDepth_ft": 10.51394223732612,
+      "HoursFlooded": 1.4590566666666647,
+      "MaximumNodeDepth_ft": 29.30194623732612,
+      "FullDepth_ft": 18.788004,
+      "FinalPondedDepth_ft": 4.082747928693394
+    },
+    {
+      "Node": "163",
+      "MaximumPondedDepth_ft": 11.309439271272968,
+      "HoursFlooded": 1.479113055555554,
+      "MaximumNodeDepth_ft": 29.697443271272967,
+      "FullDepth_ft": 18.388004,
+      "FinalPondedDepth_ft": 5.167303180489345
+    },
+    {
+      "Node": "164",
+      "MaximumPondedDepth_ft": 11.942597218802632,
+      "HoursFlooded": 1.4957797222222204,
+      "MaximumNodeDepth_ft": 29.930601218802632,
+      "FullDepth_ft": 17.988004,
+      "FinalPondedDepth_ft": 6.123946136638683
+    },
+    {
+      "Node": "165",
+      "MaximumPondedDepth_ft": 12.438495511651848,
+      "HoursFlooded": 1.5096686111111093,
+      "MaximumNodeDepth_ft": 30.02649951165185,
+      "FullDepth_ft": 17.588004,
+      "FinalPondedDepth_ft": 6.962844687005212
+    },
+    {
+      "Node": "166",
+      "MaximumPondedDepth_ft": 12.754476047050737,
+      "HoursFlooded": 1.512446388888887,
+      "MaximumNodeDepth_ft": 29.942480047050736,
+      "FullDepth_ft": 17.188004,
+      "FinalPondedDepth_ft": 7.677523434797614
+    },
+    {
+      "Node": "167",
+      "MaximumPondedDepth_ft": 13.076277050644322,
+      "HoursFlooded": 1.5338552777777765,
+      "MaximumNodeDepth_ft": 29.864281050644323,
+      "FullDepth_ft": 16.788004,
+      "FinalPondedDepth_ft": 8.32050905231462
+    },
+    {
+      "Node": "168",
+      "MaximumPondedDepth_ft": 13.255701777591383,
+      "HoursFlooded": 1.53608861111111,
+      "MaximumNodeDepth_ft": 29.643705777591382,
+      "FullDepth_ft": 16.388004,
+      "FinalPondedDepth_ft": 8.857009617989878
+    },
+    {
+      "Node": "169",
+      "MaximumPondedDepth_ft": 13.403545539203332,
+      "HoursFlooded": 1.541457499999999,
+      "MaximumNodeDepth_ft": 29.391549539203332,
+      "FullDepth_ft": 15.988004,
+      "FinalPondedDepth_ft": 9.324337622751248
+    },
+    {
+      "Node": "170",
+      "MaximumPondedDepth_ft": 13.507360691670199,
+      "HoursFlooded": 1.541457499999999,
+      "MaximumNodeDepth_ft": 29.0953646916702,
+      "FullDepth_ft": 15.588004,
+      "FinalPondedDepth_ft": 9.723557809828646
+    },
+    {
+      "Node": "171",
+      "MaximumPondedDepth_ft": 13.614619967792791,
+      "HoursFlooded": 1.5417597222222212,
+      "MaximumNodeDepth_ft": 28.80262396779279,
+      "FullDepth_ft": 15.188004,
+      "FinalPondedDepth_ft": 10.078366341048941
+    },
+    {
+      "Node": "172",
+      "MaximumPondedDepth_ft": 13.690578151779334,
+      "HoursFlooded": 1.5427802777777768,
+      "MaximumNodeDepth_ft": 28.478582151779335,
+      "FullDepth_ft": 14.788004,
+      "FinalPondedDepth_ft": 10.380356306366401
+    },
+    {
+      "Node": "173",
+      "MaximumPondedDepth_ft": 13.767959387505039,
+      "HoursFlooded": 1.5417597222222212,
+      "MaximumNodeDepth_ft": 28.15596338750504,
+      "FullDepth_ft": 14.388004,
+      "FinalPondedDepth_ft": 10.64735448949037
+    },
+    {
+      "Node": "174",
+      "MaximumPondedDepth_ft": 13.809742456039015,
+      "HoursFlooded": 1.5417597222222212,
+      "MaximumNodeDepth_ft": 27.797746456039015,
+      "FullDepth_ft": 13.988004,
+      "FinalPondedDepth_ft": 10.867157702216293
+    },
+    {
+      "Node": "175",
+      "MaximumPondedDepth_ft": 13.851866980475434,
+      "HoursFlooded": 1.5386797222222213,
+      "MaximumNodeDepth_ft": 27.439870980475433,
+      "FullDepth_ft": 13.588004,
+      "FinalPondedDepth_ft": 11.05986274703771
+    },
+    {
+      "Node": "176",
+      "MaximumPondedDepth_ft": 13.873068616545488,
+      "HoursFlooded": 1.536872499999999,
+      "MaximumNodeDepth_ft": 27.061072616545488,
+      "FullDepth_ft": 13.188004,
+      "FinalPondedDepth_ft": 11.21726474645633
+    },
+    {
+      "Node": "177",
+      "MaximumPondedDepth_ft": 13.877717782496788,
+      "HoursFlooded": 1.5356438888888877,
+      "MaximumNodeDepth_ft": 26.66572178249679,
+      "FullDepth_ft": 12.788004,
+      "FinalPondedDepth_ft": 11.338121040774844
+    },
+    {
+      "Node": "178",
+      "MaximumPondedDepth_ft": 35.67270634690483,
+      "HoursFlooded": 2.136001666666664,
+      "MaximumNodeDepth_ft": 38.432206346904835,
+      "FullDepth_ft": 2.7595,
+      "FinalPondedDepth_ft": 33.847910899092085
+    },
+    {
+      "Node": "179",
+      "MaximumPondedDepth_ft": 19.662392133452165,
+      "HoursFlooded": 1.9251697222222195,
+      "MaximumNodeDepth_ft": 23.102892133452166,
+      "FullDepth_ft": 3.4405,
+      "FinalPondedDepth_ft": 14.009701088118078
+    },
+    {
+      "Node": "180",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 2.5275,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "181",
+      "MaximumPondedDepth_ft": 22.194388901455333,
+      "HoursFlooded": 1.9355033333333302,
+      "MaximumNodeDepth_ft": 25.230388901455335,
+      "FullDepth_ft": 3.036,
+      "FinalPondedDepth_ft": 21.114006478094197
+    },
+    {
+      "Node": "182",
+      "MaximumPondedDepth_ft": 19.86464583569649,
+      "HoursFlooded": 1.9724383333333304,
+      "MaximumNodeDepth_ft": 23.45864583569649,
+      "FullDepth_ft": 3.594,
+      "FinalPondedDepth_ft": 16.34594769852866
+    },
+    {
+      "Node": "183",
+      "MaximumPondedDepth_ft": 26.02667162793118,
+      "HoursFlooded": 2.0227197222222193,
+      "MaximumNodeDepth_ft": 27.176671627931178,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.836667651948353
+    },
+    {
+      "Node": "184",
+      "MaximumPondedDepth_ft": 12.803711646914829,
+      "HoursFlooded": 1.5751805555555545,
+      "MaximumNodeDepth_ft": 16.28771164691483,
+      "FullDepth_ft": 3.484,
+      "FinalPondedDepth_ft": 12.803711646914829
+    },
+    {
+      "Node": "185",
+      "MaximumPondedDepth_ft": 33.15344473704291,
+      "HoursFlooded": 1.9932469444444414,
+      "MaximumNodeDepth_ft": 34.30344473704291,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 27.94866217062748
+    },
+    {
+      "Node": "186",
+      "MaximumPondedDepth_ft": 15.393319388380888,
+      "HoursFlooded": 1.836503888888886,
+      "MaximumNodeDepth_ft": 18.239819388380887,
+      "FullDepth_ft": 2.8465,
+      "FinalPondedDepth_ft": 15.237638154829007
+    },
+    {
+      "Node": "187",
+      "MaximumPondedDepth_ft": 16.85713528601355,
+      "HoursFlooded": 1.7622652777777754,
+      "MaximumNodeDepth_ft": 20.661135286013547,
+      "FullDepth_ft": 3.804,
+      "FinalPondedDepth_ft": 14.705298819683273
+    },
+    {
+      "Node": "188",
+      "MaximumPondedDepth_ft": 21.9205786953546,
+      "HoursFlooded": 1.9485455555555526,
+      "MaximumNodeDepth_ft": 25.525078695354598,
+      "FullDepth_ft": 3.6045,
+      "FinalPondedDepth_ft": 19.07267428233945
+    },
+    {
+      "Node": "189",
+      "MaximumPondedDepth_ft": 28.55633522100259,
+      "HoursFlooded": 2.0581713888888857,
+      "MaximumNodeDepth_ft": 31.913835221002593,
+      "FullDepth_ft": 3.3575,
+      "FinalPondedDepth_ft": 24.169769816212707
+    },
+    {
+      "Node": "190",
+      "MaximumPondedDepth_ft": 28.56810265906267,
+      "HoursFlooded": 2.0922516666666637,
+      "MaximumNodeDepth_ft": 31.38560265906267,
+      "FullDepth_ft": 2.8175,
+      "FinalPondedDepth_ft": 24.090647957683483
+    },
+    {
+      "Node": "191",
+      "MaximumPondedDepth_ft": 10.457749702046106,
+      "HoursFlooded": 2.0798469444444416,
+      "MaximumNodeDepth_ft": 12.970749702046106,
+      "FullDepth_ft": 2.513,
+      "FinalPondedDepth_ft": 10.457749702046106
+    },
+    {
+      "Node": "192",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.6338437229681542,
+      "FullDepth_ft": 17.413,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "193",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 9.013719576897495,
+      "FullDepth_ft": 16.413,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "194",
+      "MaximumPondedDepth_ft": 6.52421629540151,
+      "HoursFlooded": 1.181677500000001,
+      "MaximumNodeDepth_ft": 21.33721629540151,
+      "FullDepth_ft": 14.813,
+      "FinalPondedDepth_ft": 6.52421629540151
+    },
+    {
+      "Node": "195",
+      "MaximumPondedDepth_ft": 27.486173376274866,
+      "HoursFlooded": 1.852272499999997,
+      "MaximumNodeDepth_ft": 28.636173376274865,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 25.04447805185432
+    },
+    {
+      "Node": "196",
+      "MaximumPondedDepth_ft": 23.841624396531454,
+      "HoursFlooded": 2.0425055555555525,
+      "MaximumNodeDepth_ft": 25.455624396531455,
+      "FullDepth_ft": 1.614,
+      "FinalPondedDepth_ft": 19.43011372967837
+    },
+    {
+      "Node": "197",
+      "MaximumPondedDepth_ft": 13.107963240530676,
+      "HoursFlooded": 1.621013888888887,
+      "MaximumNodeDepth_ft": 15.185963240530675,
+      "FullDepth_ft": 2.078,
+      "FinalPondedDepth_ft": 13.107963240530676
+    },
+    {
+      "Node": "198",
+      "MaximumPondedDepth_ft": 10.12429268947976,
+      "HoursFlooded": 1.4258752777777757,
+      "MaximumNodeDepth_ft": 24.23729268947976,
+      "FullDepth_ft": 14.113,
+      "FinalPondedDepth_ft": 9.999363253301198
+    },
+    {
+      "Node": "199",
+      "MaximumPondedDepth_ft": 13.924431867783142,
+      "HoursFlooded": 1.658433055555553,
+      "MaximumNodeDepth_ft": 27.337431867783142,
+      "FullDepth_ft": 13.413,
+      "FinalPondedDepth_ft": 12.120482237783317
+    },
+    {
+      "Node": "200",
+      "MaximumPondedDepth_ft": 27.794620713030234,
+      "HoursFlooded": 1.8841869444444415,
+      "MaximumNodeDepth_ft": 29.754620713030235,
+      "FullDepth_ft": 1.96,
+      "FinalPondedDepth_ft": 25.97994749194843
+    },
+    {
+      "Node": "201",
+      "MaximumPondedDepth_ft": 30.6798184997335,
+      "HoursFlooded": 2.0935716666666635,
+      "MaximumNodeDepth_ft": 32.2048184997335,
+      "FullDepth_ft": 1.525,
+      "FinalPondedDepth_ft": 30.15627408592853
+    },
+    {
+      "Node": "202",
+      "MaximumPondedDepth_ft": 50.09651582436852,
+      "HoursFlooded": 2.1716424999999973,
+      "MaximumNodeDepth_ft": 51.29651582436852,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 45.72191269352851
+    },
+    {
+      "Node": "203",
+      "MaximumPondedDepth_ft": 12.038681427628669,
+      "HoursFlooded": 1.859968611111108,
+      "MaximumNodeDepth_ft": 13.507681427628668,
+      "FullDepth_ft": 1.469,
+      "FinalPondedDepth_ft": 12.038681427628669
+    },
+    {
+      "Node": "204",
+      "MaximumPondedDepth_ft": 12.28327468501645,
+      "HoursFlooded": 1.7151974999999977,
+      "MaximumNodeDepth_ft": 14.259774685016449,
+      "FullDepth_ft": 1.9765,
+      "FinalPondedDepth_ft": 12.211076316995952
+    },
+    {
+      "Node": "205",
+      "MaximumPondedDepth_ft": 13.98497195024552,
+      "HoursFlooded": 1.6819222222222194,
+      "MaximumNodeDepth_ft": 26.89797195024552,
+      "FullDepth_ft": 12.913,
+      "FinalPondedDepth_ft": 12.119035009112924
+    },
+    {
+      "Node": "206",
+      "MaximumPondedDepth_ft": 15.35744619580568,
+      "HoursFlooded": 1.7074169444444423,
+      "MaximumNodeDepth_ft": 27.69544619580568,
+      "FullDepth_ft": 12.338,
+      "FinalPondedDepth_ft": 12.049561406979231
+    },
+    {
+      "Node": "207",
+      "MaximumPondedDepth_ft": 17.659749266035433,
+      "HoursFlooded": 1.8458208333333304,
+      "MaximumNodeDepth_ft": 19.317249266035432,
+      "FullDepth_ft": 1.6575,
+      "FinalPondedDepth_ft": 14.875056914972616
+    },
+    {
+      "Node": "208",
+      "MaximumPondedDepth_ft": 13.73927974442089,
+      "HoursFlooded": 1.8440602777777748,
+      "MaximumNodeDepth_ft": 14.88927974442089,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.73927974442089
+    },
+    {
+      "Node": "209",
+      "MaximumPondedDepth_ft": 9.97599298260216,
+      "HoursFlooded": 1.5288705555555544,
+      "MaximumNodeDepth_ft": 13.950992982602159,
+      "FullDepth_ft": 3.975,
+      "FinalPondedDepth_ft": 8.173222304643543
+    },
+    {
+      "Node": "210",
+      "MaximumPondedDepth_ft": 35.198718765076244,
+      "HoursFlooded": 2.151713888888886,
+      "MaximumNodeDepth_ft": 36.81271876507624,
+      "FullDepth_ft": 1.614,
+      "FinalPondedDepth_ft": 27.963116610538396
+    },
+    {
+      "Node": "211",
+      "MaximumPondedDepth_ft": 18.05867341239849,
+      "HoursFlooded": 1.7359072222222198,
+      "MaximumNodeDepth_ft": 20.32517341239849,
+      "FullDepth_ft": 2.2665,
+      "FinalPondedDepth_ft": 18.019536662323226
+    },
+    {
+      "Node": "212",
+      "MaximumPondedDepth_ft": 15.029000205594937,
+      "HoursFlooded": 1.6585138888888862,
+      "MaximumNodeDepth_ft": 26.942000205594937,
+      "FullDepth_ft": 11.913,
+      "FinalPondedDepth_ft": 11.214152796561333
+    },
+    {
+      "Node": "213",
+      "MaximumPondedDepth_ft": 6.85429507196292,
+      "HoursFlooded": 1.4724166666666652,
+      "MaximumNodeDepth_ft": 17.96729507196292,
+      "FullDepth_ft": 11.113,
+      "FinalPondedDepth_ft": 1.857101439251089
+    },
+    {
+      "Node": "214",
+      "MaximumPondedDepth_ft": 2.5859256921481784,
+      "HoursFlooded": 1.4446388888888873,
+      "MaximumNodeDepth_ft": 4.4029256921481785,
+      "FullDepth_ft": 1.817,
+      "FinalPondedDepth_ft": 2.4194842896243216
+    },
+    {
+      "Node": "215",
+      "MaximumPondedDepth_ft": 6.768828353717212,
+      "HoursFlooded": 1.4646122222222204,
+      "MaximumNodeDepth_ft": 11.279828353717212,
+      "FullDepth_ft": 4.511,
+      "FinalPondedDepth_ft": 1.1040696914312464
+    },
+    {
+      "Node": "216",
+      "MaximumPondedDepth_ft": 2.512188189303386,
+      "HoursFlooded": 1.4410011111111096,
+      "MaximumNodeDepth_ft": 3.662188189303386,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 2.475835557446937
+    },
+    {
+      "Node": "217",
+      "MaximumPondedDepth_ft": 4.507298626860241,
+      "HoursFlooded": 0.9323050000000007,
+      "MaximumNodeDepth_ft": 9.48129862686024,
+      "FullDepth_ft": 4.974,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "218",
+      "MaximumPondedDepth_ft": 2.7175459307472103,
+      "HoursFlooded": 0.6303088888888889,
+      "MaximumNodeDepth_ft": 8.11554593074721,
+      "FullDepth_ft": 5.398,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "219",
+      "MaximumPondedDepth_ft": 0.192776323698288,
+      "HoursFlooded": 0.20833333333333334,
+      "MaximumNodeDepth_ft": 5.714776323698288,
+      "FullDepth_ft": 5.522,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "220",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 5.944182668154727,
+      "FullDepth_ft": 10.563,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "221",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 5.749464122920125,
+      "FullDepth_ft": 10.138,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "222",
+      "MaximumPondedDepth_ft": 10.596405853500457,
+      "HoursFlooded": 1.5288705555555544,
+      "MaximumNodeDepth_ft": 14.879405853500458,
+      "FullDepth_ft": 4.283,
+      "FinalPondedDepth_ft": 5.451388865841904
+    },
+    {
+      "Node": "223",
+      "MaximumPondedDepth_ft": 15.317755177487165,
+      "HoursFlooded": 1.6815363888888861,
+      "MaximumNodeDepth_ft": 19.277755177487165,
+      "FullDepth_ft": 3.96,
+      "FinalPondedDepth_ft": 12.27720694046765
+    },
+    {
+      "Node": "224",
+      "MaximumPondedDepth_ft": 15.889037213883112,
+      "HoursFlooded": 1.7215716666666643,
+      "MaximumNodeDepth_ft": 19.545037213883113,
+      "FullDepth_ft": 3.656,
+      "FinalPondedDepth_ft": 15.036977310132114
+    },
+    {
+      "Node": "225",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 3.1655,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "226",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 3.702,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "227",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 4.649356122867267e-06,
+      "FullDepth_ft": 4.2385,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "228",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 5.488411406226651,
+      "FullDepth_ft": 9.713,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "229",
+      "MaximumPondedDepth_ft": 9.314282149916469,
+      "HoursFlooded": 1.7506241666666644,
+      "MaximumNodeDepth_ft": 13.30478214991647,
+      "FullDepth_ft": 3.9905,
+      "FinalPondedDepth_ft": 9.314282149916469
+    },
+    {
+      "Node": "230",
+      "MaximumPondedDepth_ft": 8.182713700435187,
+      "HoursFlooded": 1.6884808333333308,
+      "MaximumNodeDepth_ft": 12.648213700435186,
+      "FullDepth_ft": 4.4655,
+      "FinalPondedDepth_ft": 7.95319601492159
+    },
+    {
+      "Node": "231",
+      "MaximumPondedDepth_ft": 9.69160156754435,
+      "HoursFlooded": 1.6733274999999972,
+      "MaximumNodeDepth_ft": 14.63210156754435,
+      "FullDepth_ft": 4.9405,
+      "FinalPondedDepth_ft": 5.841180548626962
+    },
+    {
+      "Node": "232",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 5.211650887539853,
+      "FullDepth_ft": 9.288,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "233",
+      "MaximumPondedDepth_ft": 49.34874325833954,
+      "HoursFlooded": 2.1380674999999973,
+      "MaximumNodeDepth_ft": 52.74624325833954,
+      "FullDepth_ft": 3.3975,
+      "FinalPondedDepth_ft": 40.79324728682219
+    },
+    {
+      "Node": "234",
+      "MaximumPondedDepth_ft": 27.354749730796787,
+      "HoursFlooded": 1.897830277777775,
+      "MaximumNodeDepth_ft": 31.382249730796786,
+      "FullDepth_ft": 4.0275,
+      "FinalPondedDepth_ft": 26.711799546117152
+    },
+    {
+      "Node": "235",
+      "MaximumPondedDepth_ft": 7.353260776277892,
+      "HoursFlooded": 1.4022641666666646,
+      "MaximumNodeDepth_ft": 11.880760776277892,
+      "FullDepth_ft": 4.5275,
+      "FinalPondedDepth_ft": 7.353260776277892
+    },
+    {
+      "Node": "236",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 4.8449037923147005,
+      "FullDepth_ft": 8.863,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "237",
+      "MaximumPondedDepth_ft": 9.736225115273152,
+      "HoursFlooded": 1.445167777777776,
+      "MaximumNodeDepth_ft": 21.424225115273153,
+      "FullDepth_ft": 11.688,
+      "FinalPondedDepth_ft": 7.946552310641225
+    },
+    {
+      "Node": "238",
+      "MaximumPondedDepth_ft": 5.163917726429668,
+      "HoursFlooded": 1.3203197222222192,
+      "MaximumNodeDepth_ft": 15.751917726429667,
+      "FullDepth_ft": 10.588,
+      "FinalPondedDepth_ft": 3.530026281098289
+    },
+    {
+      "Node": "239",
+      "MaximumPondedDepth_ft": 0.9033678399058509,
+      "HoursFlooded": 0.7818258333333328,
+      "MaximumNodeDepth_ft": 10.441367839905851,
+      "FullDepth_ft": 9.538,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "240",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 4.389493328111264,
+      "FullDepth_ft": 8.438,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "241",
+      "MaximumPondedDepth_ft": 11.430399474712063,
+      "HoursFlooded": 1.6460138888888864,
+      "MaximumNodeDepth_ft": 23.518399474712062,
+      "FullDepth_ft": 12.088,
+      "FinalPondedDepth_ft": 9.466910097899317
+    },
+    {
+      "Node": "242",
+      "MaximumPondedDepth_ft": 16.779418514953335,
+      "HoursFlooded": 1.8711624999999972,
+      "MaximumNodeDepth_ft": 18.602918514953334,
+      "FullDepth_ft": 1.8235,
+      "FinalPondedDepth_ft": 11.578261559592814
+    },
+    {
+      "Node": "243",
+      "MaximumPondedDepth_ft": 11.50426296096799,
+      "HoursFlooded": 1.5448647222222212,
+      "MaximumNodeDepth_ft": 14.08126296096799,
+      "FullDepth_ft": 2.577,
+      "FinalPondedDepth_ft": 2.735972924486809
+    },
+    {
+      "Node": "244",
+      "MaximumPondedDepth_ft": 2.7397122546967374,
+      "HoursFlooded": 1.4203197222222201,
+      "MaximumNodeDepth_ft": 4.092712254696737,
+      "FullDepth_ft": 1.353,
+      "FinalPondedDepth_ft": 2.5995890762941043
+    },
+    {
+      "Node": "245",
+      "MaximumPondedDepth_ft": 4.596163069299853,
+      "HoursFlooded": 1.4189308333333313,
+      "MaximumNodeDepth_ft": 10.879163069299853,
+      "FullDepth_ft": 6.283,
+      "FinalPondedDepth_ft": 2.2869273722778702
+    },
+    {
+      "Node": "246",
+      "MaximumPondedDepth_ft": 10.703320160054105,
+      "HoursFlooded": 1.6427697222222197,
+      "MaximumNodeDepth_ft": 23.191320160054104,
+      "FullDepth_ft": 12.488,
+      "FinalPondedDepth_ft": 9.838803970281518
+    },
+    {
+      "Node": "247",
+      "MaximumPondedDepth_ft": 8.5414566593808,
+      "HoursFlooded": 1.8582674999999969,
+      "MaximumNodeDepth_ft": 10.169956659380802,
+      "FullDepth_ft": 1.6285,
+      "FinalPondedDepth_ft": 8.5414566593808
+    },
+    {
+      "Node": "248",
+      "MaximumPondedDepth_ft": 16.906432681879615,
+      "HoursFlooded": 1.8547772222222192,
+      "MaximumNodeDepth_ft": 21.421432681879615,
+      "FullDepth_ft": 4.515,
+      "FinalPondedDepth_ft": 16.906432681879615
+    },
+    {
+      "Node": "249",
+      "MaximumPondedDepth_ft": 13.559757460995552,
+      "HoursFlooded": 1.7340716666666642,
+      "MaximumNodeDepth_ft": 18.483257460995553,
+      "FullDepth_ft": 4.9235,
+      "FinalPondedDepth_ft": 13.095229754997217
+    },
+    {
+      "Node": "250",
+      "MaximumPondedDepth_ft": 10.809173849318693,
+      "HoursFlooded": 1.5483094444444432,
+      "MaximumNodeDepth_ft": 16.981673849318693,
+      "FullDepth_ft": 6.1725,
+      "FinalPondedDepth_ft": 9.105631519028702
+    },
+    {
+      "Node": "251",
+      "MaximumPondedDepth_ft": 10.751525173142573,
+      "HoursFlooded": 1.6487916666666642,
+      "MaximumNodeDepth_ft": 23.639525173142573,
+      "FullDepth_ft": 12.888,
+      "FinalPondedDepth_ft": 10.194586663787211
+    },
+    {
+      "Node": "252",
+      "MaximumPondedDepth_ft": 22.535119538741448,
+      "HoursFlooded": 2.0569705555555524,
+      "MaximumNodeDepth_ft": 24.163619538741447,
+      "FullDepth_ft": 1.6285,
+      "FinalPondedDepth_ft": 20.428852977990193
+    },
+    {
+      "Node": "253",
+      "MaximumPondedDepth_ft": 19.754122186139963,
+      "HoursFlooded": 1.9280044444444415,
+      "MaximumNodeDepth_ft": 24.117122186139962,
+      "FullDepth_ft": 4.363,
+      "FinalPondedDepth_ft": 19.700672440324155
+    },
+    {
+      "Node": "254",
+      "MaximumPondedDepth_ft": 11.083183418329082,
+      "HoursFlooded": 1.6557361111111086,
+      "MaximumNodeDepth_ft": 24.371183418329082,
+      "FullDepth_ft": 13.288,
+      "FinalPondedDepth_ft": 10.601951369579776
+    },
+    {
+      "Node": "255",
+      "MaximumPondedDepth_ft": 46.21090459490874,
+      "HoursFlooded": 2.1505124999999974,
+      "MaximumNodeDepth_ft": 47.83940459490874,
+      "FullDepth_ft": 1.6285,
+      "FinalPondedDepth_ft": 39.6817621963512
+    },
+    {
+      "Node": "256",
+      "MaximumPondedDepth_ft": 23.295120347390114,
+      "HoursFlooded": 1.9773744444444417,
+      "MaximumNodeDepth_ft": 27.388120347390114,
+      "FullDepth_ft": 4.093,
+      "FinalPondedDepth_ft": 23.240097817201157
+    },
+    {
+      "Node": "257",
+      "MaximumPondedDepth_ft": 46.6535697317369,
+      "HoursFlooded": 2.1442136111111085,
+      "MaximumNodeDepth_ft": 48.3835697317369,
+      "FullDepth_ft": 1.73,
+      "FinalPondedDepth_ft": 39.993233499112016
+    },
+    {
+      "Node": "258",
+      "MaximumPondedDepth_ft": 15.428988920349,
+      "HoursFlooded": 1.6773724999999973,
+      "MaximumNodeDepth_ft": 21.329488920349,
+      "FullDepth_ft": 5.9005,
+      "FinalPondedDepth_ft": 14.732426974394478
+    },
+    {
+      "Node": "259",
+      "MaximumPondedDepth_ft": 11.873906795394186,
+      "HoursFlooded": 1.6787749999999972,
+      "MaximumNodeDepth_ft": 25.561906795394187,
+      "FullDepth_ft": 13.688,
+      "FinalPondedDepth_ft": 11.072293177575434
+    },
+    {
+      "Node": "260",
+      "MaximumPondedDepth_ft": 22.30369066209188,
+      "HoursFlooded": 2.0771411111111084,
+      "MaximumNodeDepth_ft": 23.98219066209188,
+      "FullDepth_ft": 1.6785,
+      "FinalPondedDepth_ft": 22.30369066209188
+    },
+    {
+      "Node": "261",
+      "MaximumPondedDepth_ft": 24.17888664037971,
+      "HoursFlooded": 2.0356438888888864,
+      "MaximumNodeDepth_ft": 28.07188664037971,
+      "FullDepth_ft": 3.893,
+      "FinalPondedDepth_ft": 23.964446829323933
+    },
+    {
+      "Node": "262",
+      "MaximumPondedDepth_ft": 12.767235075911612,
+      "HoursFlooded": 1.7769744444444424,
+      "MaximumNodeDepth_ft": 13.917235075911613,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.767235075911612
+    },
+    {
+      "Node": "263",
+      "MaximumPondedDepth_ft": 16.906556529693518,
+      "HoursFlooded": 1.7672552777777757,
+      "MaximumNodeDepth_ft": 22.67105652969352,
+      "FullDepth_ft": 5.7645,
+      "FinalPondedDepth_ft": 16.28815530778502
+    },
+    {
+      "Node": "264",
+      "MaximumPondedDepth_ft": 13.611159915074124,
+      "HoursFlooded": 1.7229605555555532,
+      "MaximumNodeDepth_ft": 27.699159915074123,
+      "FullDepth_ft": 14.088,
+      "FinalPondedDepth_ft": 11.5350076067339
+    },
+    {
+      "Node": "265",
+      "MaximumPondedDepth_ft": 33.14479088236651,
+      "HoursFlooded": 2.1039891666666635,
+      "MaximumNodeDepth_ft": 36.38579088236651,
+      "FullDepth_ft": 3.241,
+      "FinalPondedDepth_ft": 27.02791447286866
+    },
+    {
+      "Node": "266",
+      "MaximumPondedDepth_ft": 33.120404685163564,
+      "HoursFlooded": 2.0875208333333304,
+      "MaximumNodeDepth_ft": 36.86140468516356,
+      "FullDepth_ft": 3.741,
+      "FinalPondedDepth_ft": 26.793812314084626
+    },
+    {
+      "Node": "267",
+      "MaximumPondedDepth_ft": 22.652079768922295,
+      "HoursFlooded": 1.9316052777777748,
+      "MaximumNodeDepth_ft": 27.077079768922296,
+      "FullDepth_ft": 4.425,
+      "FinalPondedDepth_ft": 22.125948116839158
+    },
+    {
+      "Node": "268",
+      "MaximumPondedDepth_ft": 18.080036366528294,
+      "HoursFlooded": 1.8275683333333306,
+      "MaximumNodeDepth_ft": 23.708536366528293,
+      "FullDepth_ft": 5.6285,
+      "FinalPondedDepth_ft": 17.686747860417622
+    },
+    {
+      "Node": "269",
+      "MaximumPondedDepth_ft": 14.635502982295627,
+      "HoursFlooded": 1.7299049999999976,
+      "MaximumNodeDepth_ft": 29.123502982295626,
+      "FullDepth_ft": 14.488,
+      "FinalPondedDepth_ft": 11.642757457561238
+    },
+    {
+      "Node": "270",
+      "MaximumPondedDepth_ft": 17.40434412359371,
+      "HoursFlooded": 1.7368494444444422,
+      "MaximumNodeDepth_ft": 32.29234412359371,
+      "FullDepth_ft": 14.888,
+      "FinalPondedDepth_ft": 11.664773197405074
+    },
+    {
+      "Node": "271",
+      "MaximumPondedDepth_ft": 25.906912653977898,
+      "HoursFlooded": 2.0989866666666632,
+      "MaximumNodeDepth_ft": 28.553912653977896,
+      "FullDepth_ft": 2.647,
+      "FinalPondedDepth_ft": 25.906912653977898
+    },
+    {
+      "Node": "272",
+      "MaximumPondedDepth_ft": 11.176966626647317,
+      "HoursFlooded": 1.9824936111111082,
+      "MaximumNodeDepth_ft": 12.906966626647318,
+      "FullDepth_ft": 1.73,
+      "FinalPondedDepth_ft": 11.176966626647317
+    },
+    {
+      "Node": "273",
+      "MaximumPondedDepth_ft": 26.286670084022134,
+      "HoursFlooded": 1.9767424999999972,
+      "MaximumNodeDepth_ft": 30.503670084022133,
+      "FullDepth_ft": 4.217,
+      "FinalPondedDepth_ft": 25.634302103283595
+    },
+    {
+      "Node": "274",
+      "MaximumPondedDepth_ft": 13.705743361156017,
+      "HoursFlooded": 1.869653611111108,
+      "MaximumNodeDepth_ft": 18.455743361156017,
+      "FullDepth_ft": 4.75,
+      "FinalPondedDepth_ft": 13.705743361156017
+    },
+    {
+      "Node": "275",
+      "MaximumPondedDepth_ft": 19.314747872295836,
+      "HoursFlooded": 1.7354605555555531,
+      "MaximumNodeDepth_ft": 34.602747872295836,
+      "FullDepth_ft": 15.288,
+      "FinalPondedDepth_ft": 11.552282657057436
+    },
+    {
+      "Node": "276",
+      "MaximumPondedDepth_ft": 19.307731728978247,
+      "HoursFlooded": 1.7009808333333307,
+      "MaximumNodeDepth_ft": 34.99573172897825,
+      "FullDepth_ft": 15.688,
+      "FinalPondedDepth_ft": 10.458545530094662
+    },
+    {
+      "Node": "277",
+      "MaximumPondedDepth_ft": 10.360852634027424,
+      "HoursFlooded": 1.4710277777777763,
+      "MaximumNodeDepth_ft": 26.448852634027425,
+      "FullDepth_ft": 16.088,
+      "FinalPondedDepth_ft": 7.487903225392145
+    },
+    {
+      "Node": "278",
+      "MaximumPondedDepth_ft": 4.677679845134861,
+      "HoursFlooded": 1.2400108333333335,
+      "MaximumNodeDepth_ft": 21.16567984513486,
+      "FullDepth_ft": 16.488,
+      "FinalPondedDepth_ft": 3.685620254424599
+    },
+    {
+      "Node": "279",
+      "MaximumPondedDepth_ft": 47.76098932377835,
+      "HoursFlooded": 2.1541274999999973,
+      "MaximumNodeDepth_ft": 49.54098932377835,
+      "FullDepth_ft": 1.78,
+      "FinalPondedDepth_ft": 38.554368090486605
+    },
+    {
+      "Node": "280",
+      "MaximumPondedDepth_ft": 33.43098516031886,
+      "HoursFlooded": 2.107999722222219,
+      "MaximumNodeDepth_ft": 35.41098516031886,
+      "FullDepth_ft": 1.98,
+      "FinalPondedDepth_ft": 33.43098516031886
+    },
+    {
+      "Node": "281",
+      "MaximumPondedDepth_ft": 38.20482727819317,
+      "HoursFlooded": 2.0751527777777747,
+      "MaximumNodeDepth_ft": 41.70582727819317,
+      "FullDepth_ft": 3.501,
+      "FinalPondedDepth_ft": 36.14723039621132
+    },
+    {
+      "Node": "282",
+      "MaximumPondedDepth_ft": 33.44721606139335,
+      "HoursFlooded": 2.088931388888886,
+      "MaximumNodeDepth_ft": 35.75721606139335,
+      "FullDepth_ft": 2.31,
+      "FinalPondedDepth_ft": 28.71458458095056
+    },
+    {
+      "Node": "283",
+      "MaximumPondedDepth_ft": 25.44921275478334,
+      "HoursFlooded": 2.0587091666666635,
+      "MaximumNodeDepth_ft": 27.962212754783337,
+      "FullDepth_ft": 2.513,
+      "FinalPondedDepth_ft": 25.44921275478334
+    },
+    {
+      "Node": "284",
+      "MaximumPondedDepth_ft": 12.102972359577825,
+      "HoursFlooded": 2.004389999999997,
+      "MaximumNodeDepth_ft": 13.571972359577824,
+      "FullDepth_ft": 1.469,
+      "FinalPondedDepth_ft": 12.102972359577825
+    },
+    {
+      "Node": "285",
+      "MaximumPondedDepth_ft": 29.016835777539995,
+      "HoursFlooded": 2.0086527777777747,
+      "MaximumNodeDepth_ft": 33.04683577754,
+      "FullDepth_ft": 4.03,
+      "FinalPondedDepth_ft": 28.283045021801385
+    },
+    {
+      "Node": "286",
+      "MaximumPondedDepth_ft": 30.921362993555313,
+      "HoursFlooded": 2.0306594444444412,
+      "MaximumNodeDepth_ft": 34.86636299355531,
+      "FullDepth_ft": 3.945,
+      "FinalPondedDepth_ft": 29.826493252553696
+    },
+    {
+      "Node": "287",
+      "MaximumPondedDepth_ft": 33.35983527441864,
+      "HoursFlooded": 2.0628966666666635,
+      "MaximumNodeDepth_ft": 37.18583527441864,
+      "FullDepth_ft": 3.826,
+      "FinalPondedDepth_ft": 31.734780407101034
+    },
+    {
+      "Node": "288",
+      "MaximumPondedDepth_ft": 35.722051107587404,
+      "HoursFlooded": 2.065335555555553,
+      "MaximumNodeDepth_ft": 39.4180511075874,
+      "FullDepth_ft": 3.696,
+      "FinalPondedDepth_ft": 34.02475870126152
+    },
+    {
+      "Node": "289",
+      "MaximumPondedDepth_ft": 35.411961273965204,
+      "HoursFlooded": 2.08668083333333,
+      "MaximumNodeDepth_ft": 36.8519612739652,
+      "FullDepth_ft": 1.44,
+      "FinalPondedDepth_ft": 34.02993359076997
+    },
+    {
+      "Node": "290",
+      "MaximumPondedDepth_ft": 9.154548431077501,
+      "HoursFlooded": 1.9662572222222192,
+      "MaximumNodeDepth_ft": 12.9580484310775,
+      "FullDepth_ft": 3.8035,
+      "FinalPondedDepth_ft": 9.154548431077501
+    },
+    {
+      "Node": "291",
+      "MaximumPondedDepth_ft": 22.816511504968418,
+      "HoursFlooded": 1.986726388888886,
+      "MaximumNodeDepth_ft": 26.910011504968416,
+      "FullDepth_ft": 4.0935,
+      "FinalPondedDepth_ft": 15.277617505345702
+    },
+    {
+      "Node": "292",
+      "MaximumPondedDepth_ft": 20.155518641682235,
+      "HoursFlooded": 1.977274999999997,
+      "MaximumNodeDepth_ft": 24.473018641682234,
+      "FullDepth_ft": 4.3175,
+      "FinalPondedDepth_ft": 15.157249012926055
+    },
+    {
+      "Node": "293",
+      "MaximumPondedDepth_ft": 13.624573241302476,
+      "HoursFlooded": 1.9494399999999972,
+      "MaximumNodeDepth_ft": 18.087073241302477,
+      "FullDepth_ft": 4.4625,
+      "FinalPondedDepth_ft": 13.624573241302476
+    },
+    {
+      "Node": "294",
+      "MaximumPondedDepth_ft": 5.849529056018051,
+      "HoursFlooded": 1.9673258333333303,
+      "MaximumNodeDepth_ft": 9.07302905601805,
+      "FullDepth_ft": 3.2235,
+      "FinalPondedDepth_ft": 5.849529056018051
+    },
+    {
+      "Node": "295",
+      "MaximumPondedDepth_ft": 27.634030772285648,
+      "HoursFlooded": 2.08668083333333,
+      "MaximumNodeDepth_ft": 28.784030772285647,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 27.634030772285648
+    },
+    {
+      "Node": "296",
+      "MaximumPondedDepth_ft": 41.299422215321314,
+      "HoursFlooded": 2.084644999999997,
+      "MaximumNodeDepth_ft": 44.63042221532132,
+      "FullDepth_ft": 3.331,
+      "FinalPondedDepth_ft": 38.05702340671574
+    },
+    {
+      "Node": "297",
+      "MaximumPondedDepth_ft": 45.13539572473519,
+      "HoursFlooded": 2.0928719444444415,
+      "MaximumNodeDepth_ft": 48.28789572473519,
+      "FullDepth_ft": 3.1525,
+      "FinalPondedDepth_ft": 39.73298549214158
+    },
+    {
+      "Node": "298",
+      "MaximumPondedDepth_ft": 49.8409702992845,
+      "HoursFlooded": 2.1098369444444414,
+      "MaximumNodeDepth_ft": 50.9909702992845,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 49.213872747553815
+    },
+    {
+      "Node": "299",
+      "MaximumPondedDepth_ft": 0.038834207223469974,
+      "HoursFlooded": 0.3275291666666666,
+      "MaximumNodeDepth_ft": 16.92683420722347,
+      "FullDepth_ft": 16.888,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "300",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 13.096747746772007,
+      "FullDepth_ft": 17.288,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "301",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 9.031277413537254,
+      "FullDepth_ft": 17.688,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "302",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 1.0402250911401127,
+      "FullDepth_ft": 18.438,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "303",
+      "MaximumPondedDepth_ft": 17.784143551286157,
+      "HoursFlooded": 2.0813208333333306,
+      "MaximumNodeDepth_ft": 19.441643551286155,
+      "FullDepth_ft": 1.6575,
+      "FinalPondedDepth_ft": 17.784143551286157
+    },
+    {
+      "Node": "304",
+      "MaximumPondedDepth_ft": 47.38674819322538,
+      "HoursFlooded": 2.0939086111111083,
+      "MaximumNodeDepth_ft": 49.73174819322538,
+      "FullDepth_ft": 2.345,
+      "FinalPondedDepth_ft": 40.981290586476206
+    },
+    {
+      "Node": "305",
+      "MaximumPondedDepth_ft": 17.39004614309405,
+      "HoursFlooded": 1.996894999999997,
+      "MaximumNodeDepth_ft": 19.308546143094052,
+      "FullDepth_ft": 1.9185,
+      "FinalPondedDepth_ft": 14.006571360306706
+    },
+    {
+      "Node": "306",
+      "MaximumPondedDepth_ft": 5.97785300276233,
+      "HoursFlooded": 1.9735613888888859,
+      "MaximumNodeDepth_ft": 8.70835300276233,
+      "FullDepth_ft": 2.7305,
+      "FinalPondedDepth_ft": 5.97785300276233
+    },
+    {
+      "Node": "307",
+      "MaximumPondedDepth_ft": 31.34854424223444,
+      "HoursFlooded": 1.5438094444444435,
+      "MaximumNodeDepth_ft": 32.67854424223444,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 4.1404220302319
+    },
+    {
+      "Node": "308",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 16.893375075996577,
+      "FullDepth_ft": 28.4263,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "309",
+      "MaximumPondedDepth_ft": 2.2637504150969883,
+      "HoursFlooded": 2.077361111111108,
+      "MaximumNodeDepth_ft": 3.413750415096988,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 2.2637504150969883
+    },
+    {
+      "Node": "310",
+      "MaximumPondedDepth_ft": 38.39350927029075,
+      "HoursFlooded": 2.1553372222222196,
+      "MaximumNodeDepth_ft": 39.72350927029075,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 37.982654080855056
+    },
+    {
+      "Node": "311",
+      "MaximumPondedDepth_ft": 39.45503890822552,
+      "HoursFlooded": 2.1541274999999973,
+      "MaximumNodeDepth_ft": 40.65503890822552,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 38.863707725505165
+    },
+    {
+      "Node": "312",
+      "MaximumPondedDepth_ft": 11.757755400213282,
+      "HoursFlooded": 2.151111666666664,
+      "MaximumNodeDepth_ft": 12.907755400213283,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.757755400213282
+    },
+    {
+      "Node": "313",
+      "MaximumPondedDepth_ft": 25.693521147502437,
+      "HoursFlooded": 2.1577622222222197,
+      "MaximumNodeDepth_ft": 26.843521147502436,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 25.418777870178133
+    },
+    {
+      "Node": "314",
+      "MaximumPondedDepth_ft": 24.215370233697225,
+      "HoursFlooded": 2.1210883333333306,
+      "MaximumNodeDepth_ft": 25.415370233697224,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 21.17154581377491
+    },
+    {
+      "Node": "315",
+      "MaximumPondedDepth_ft": 20.23635552709894,
+      "HoursFlooded": 2.1183866666666638,
+      "MaximumNodeDepth_ft": 21.43635552709894,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 17.85363358867841
+    },
+    {
+      "Node": "316",
+      "MaximumPondedDepth_ft": 42.8078706499475,
+      "HoursFlooded": 2.182671388888886,
+      "MaximumNodeDepth_ft": 44.1378706499475,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 41.62642043017439
+    },
+    {
+      "Node": "317",
+      "MaximumPondedDepth_ft": 53.87793484756274,
+      "HoursFlooded": 2.180156666666664,
+      "MaximumNodeDepth_ft": 55.077934847562744,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 50.65704249831988
+    },
+    {
+      "Node": "318",
+      "MaximumPondedDepth_ft": 6.65676813422442,
+      "HoursFlooded": 1.937513611111108,
+      "MaximumNodeDepth_ft": 7.80676813422442,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 6.65676813422442
+    },
+    {
+      "Node": "319",
+      "MaximumPondedDepth_ft": 7.723084619802071,
+      "HoursFlooded": 1.9394308333333303,
+      "MaximumNodeDepth_ft": 8.873084619802071,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.489943431026182
+    },
+    {
+      "Node": "320",
+      "MaximumPondedDepth_ft": 42.243622270834955,
+      "HoursFlooded": 2.0466788888888856,
+      "MaximumNodeDepth_ft": 43.39362227083495,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 39.90720305615991
+    },
+    {
+      "Node": "321",
+      "MaximumPondedDepth_ft": 29.462220828233477,
+      "HoursFlooded": 1.925864999999997,
+      "MaximumNodeDepth_ft": 30.79222082823348,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 25.6881800685795
+    },
+    {
+      "Node": "322",
+      "MaximumPondedDepth_ft": 38.67727905327477,
+      "HoursFlooded": 2.0252280555555524,
+      "MaximumNodeDepth_ft": 39.877279053274776,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 35.00561068596119
+    },
+    {
+      "Node": "323",
+      "MaximumPondedDepth_ft": 26.196517418157384,
+      "HoursFlooded": 1.913642777777775,
+      "MaximumNodeDepth_ft": 27.346517418157383,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 26.196517418157384
+    },
+    {
+      "Node": "324",
+      "MaximumPondedDepth_ft": 46.91973033988872,
+      "HoursFlooded": 1.989543611111108,
+      "MaximumNodeDepth_ft": 48.119730339888726,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 42.50050033279507
+    },
+    {
+      "Node": "325",
+      "MaximumPondedDepth_ft": 30.075090989903533,
+      "HoursFlooded": 1.9504866666666638,
+      "MaximumNodeDepth_ft": 31.275090989903532,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 29.26604838197345
+    },
+    {
+      "Node": "326",
+      "MaximumPondedDepth_ft": 29.50408105078572,
+      "HoursFlooded": 1.9548394444444415,
+      "MaximumNodeDepth_ft": 30.70408105078572,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 28.983912023675504
+    },
+    {
+      "Node": "327",
+      "MaximumPondedDepth_ft": 31.13471988071877,
+      "HoursFlooded": 1.9533952777777748,
+      "MaximumNodeDepth_ft": 32.46471988071877,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 29.003256029104513
+    },
+    {
+      "Node": "328",
+      "MaximumPondedDepth_ft": 29.95497978381237,
+      "HoursFlooded": 1.9493405555555525,
+      "MaximumNodeDepth_ft": 31.284979783812368,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 28.912813698084975
+    },
+    {
+      "Node": "329",
+      "MaximumPondedDepth_ft": 22.290538001270818,
+      "HoursFlooded": 1.9288533333333304,
+      "MaximumNodeDepth_ft": 23.440538001270816,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.290538001270818
+    },
+    {
+      "Node": "330",
+      "MaximumPondedDepth_ft": 41.71828941582048,
+      "HoursFlooded": 1.9706480555555528,
+      "MaximumNodeDepth_ft": 43.04828941582048,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 32.99097238609542
+    },
+    {
+      "Node": "331",
+      "MaximumPondedDepth_ft": 22.652375887515568,
+      "HoursFlooded": 1.939707499999997,
+      "MaximumNodeDepth_ft": 23.802375887515566,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.652375887515568
+    },
+    {
+      "Node": "332",
+      "MaximumPondedDepth_ft": 30.833552677136726,
+      "HoursFlooded": 1.9708858333333303,
+      "MaximumNodeDepth_ft": 32.033552677136726,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 30.353067660081077
+    },
+    {
+      "Node": "333",
+      "MaximumPondedDepth_ft": 22.916383892242692,
+      "HoursFlooded": 1.9683611111111081,
+      "MaximumNodeDepth_ft": 24.06638389224269,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.916383892242692
+    },
+    {
+      "Node": "334",
+      "MaximumPondedDepth_ft": 23.01104932419426,
+      "HoursFlooded": 1.9617272222222193,
+      "MaximumNodeDepth_ft": 24.16104932419426,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 23.01104932419426
+    },
+    {
+      "Node": "335",
+      "MaximumPondedDepth_ft": 31.340748494911725,
+      "HoursFlooded": 1.9787872222222191,
+      "MaximumNodeDepth_ft": 32.540748494911725,
+      "FullDepth_ft": 1.2,
+      "FinalPondedDepth_ft": 30.878629041188066
+    },
+    {
+      "Node": "336",
+      "MaximumPondedDepth_ft": 37.443017856594054,
+      "HoursFlooded": 2.0085430555555526,
+      "MaximumNodeDepth_ft": 38.59301785659405,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 36.443836054100124
+    },
+    {
+      "Node": "337",
+      "MaximumPondedDepth_ft": 122.85385115812456,
+      "HoursFlooded": 2.1458272222222194,
+      "MaximumNodeDepth_ft": 124.18385115812455,
+      "FullDepth_ft": 1.33,
+      "FinalPondedDepth_ft": 90.53298493307558
+    },
+    {
+      "Node": "338",
+      "MaximumPondedDepth_ft": 9.993118012248333,
+      "HoursFlooded": 1.5461619444444432,
+      "MaximumNodeDepth_ft": 11.143118012248333,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.993118012248333
+    },
+    {
+      "Node": "339",
+      "MaximumPondedDepth_ft": 27.849781655105375,
+      "HoursFlooded": 1.9825419444444414,
+      "MaximumNodeDepth_ft": 28.999781655105373,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 24.58289529630025
+    },
+    {
+      "Node": "340",
+      "MaximumPondedDepth_ft": 32.50433377679516,
+      "HoursFlooded": 2.060182499999997,
+      "MaximumNodeDepth_ft": 33.654333776795156,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 30.34809858318299
+    },
+    {
+      "Node": "342",
+      "MaximumPondedDepth_ft": 1.2029407018110976,
+      "HoursFlooded": 1.0033127777777782,
+      "MaximumNodeDepth_ft": 2.3529407018110975,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "345",
+      "MaximumPondedDepth_ft": 5.7392257238442586,
+      "HoursFlooded": 1.9784622222222192,
+      "MaximumNodeDepth_ft": 6.889225723844259,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 5.7392257238442586
+    },
+    {
+      "Node": "346",
+      "MaximumPondedDepth_ft": 8.527137164867055,
+      "HoursFlooded": 1.9648072222222193,
+      "MaximumNodeDepth_ft": 9.677137164867055,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.527137164867055
+    },
+    {
+      "Node": "349",
+      "MaximumPondedDepth_ft": 11.843678853495744,
+      "HoursFlooded": 1.6874041666666644,
+      "MaximumNodeDepth_ft": 12.993678853495744,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.843678853495744
+    },
+    {
+      "Node": "z_0512_001_001",
+      "MaximumPondedDepth_ft": 16.397889893370824,
+      "HoursFlooded": 2.1469427777777748,
+      "MaximumNodeDepth_ft": 17.547889893370822,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.397889893370824
+    },
+    {
+      "Node": "z_0512_001_002",
+      "MaximumPondedDepth_ft": 31.05009776814895,
+      "HoursFlooded": 2.167558888888886,
+      "MaximumNodeDepth_ft": 32.20009776814895,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 31.05009776814895
+    },
+    {
+      "Node": "z_0512_001_003",
+      "MaximumPondedDepth_ft": 14.022377983710305,
+      "HoursFlooded": 2.1172361111111084,
+      "MaximumNodeDepth_ft": 15.172377983710305,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.022377983710305
+    },
+    {
+      "Node": "z_0512_001_004",
+      "MaximumPondedDepth_ft": 22.04137306280888,
+      "HoursFlooded": 2.156548888888886,
+      "MaximumNodeDepth_ft": 23.19137306280888,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.04137306280888
+    },
+    {
+      "Node": "z_0512_001_005",
+      "MaximumPondedDepth_ft": 14.568197138174254,
+      "HoursFlooded": 2.135715555555553,
+      "MaximumNodeDepth_ft": 15.718197138174254,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.568197138174254
+    },
+    {
+      "Node": "z_0512_001_006",
+      "MaximumPondedDepth_ft": 8.380253346598595,
+      "HoursFlooded": 2.0569705555555524,
+      "MaximumNodeDepth_ft": 9.530253346598595,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.380253346598595
+    },
+    {
+      "Node": "z_0512_001_007",
+      "MaximumPondedDepth_ft": 31.167297905023638,
+      "HoursFlooded": 2.1535233333333306,
+      "MaximumNodeDepth_ft": 32.317297905023636,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 31.167297905023638
+    },
+    {
+      "Node": "z_0512_001_008",
+      "MaximumPondedDepth_ft": 33.22871704556837,
+      "HoursFlooded": 2.156548888888886,
+      "MaximumNodeDepth_ft": 34.378717045568365,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 33.22871704556837
+    },
+    {
+      "Node": "z_0512_001_009",
+      "MaximumPondedDepth_ft": 4.82678475959314,
+      "HoursFlooded": 1.844607499999997,
+      "MaximumNodeDepth_ft": 5.976784759593141,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 4.82678475959314
+    },
+    {
+      "Node": "z_0512_001_010",
+      "MaximumPondedDepth_ft": 12.138986796530768,
+      "HoursFlooded": 2.0716636111111084,
+      "MaximumNodeDepth_ft": 13.288986796530768,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.138986796530768
+    },
+    {
+      "Node": "z_0512_001_011",
+      "MaximumPondedDepth_ft": 8.922944712148974,
+      "HoursFlooded": 2.0194922222222194,
+      "MaximumNodeDepth_ft": 10.072944712148974,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.922944712148974
+    },
+    {
+      "Node": "z_0512_001_012",
+      "MaximumPondedDepth_ft": 29.247989405444457,
+      "HoursFlooded": 2.112203888888886,
+      "MaximumNodeDepth_ft": 30.397989405444456,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 29.247989405444457
+    },
+    {
+      "Node": "z_0512_001_013",
+      "MaximumPondedDepth_ft": 5.592739727440218,
+      "HoursFlooded": 1.926102499999997,
+      "MaximumNodeDepth_ft": 6.7427397274402185,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 5.592739727440218
+    },
+    {
+      "Node": "z_0512_001_014",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_015",
+      "MaximumPondedDepth_ft": 7.785045395549114,
+      "HoursFlooded": 2.1030919444444414,
+      "MaximumNodeDepth_ft": 8.935045395549114,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.785045395549114
+    },
+    {
+      "Node": "z_0512_001_016",
+      "MaximumPondedDepth_ft": 21.210531689343156,
+      "HoursFlooded": 1.659902777777775,
+      "MaximumNodeDepth_ft": 22.360531689343155,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.210531689343156
+    },
+    {
+      "Node": "z_0512_001_017",
+      "MaximumPondedDepth_ft": 21.83386298882114,
+      "HoursFlooded": 1.7189961111111087,
+      "MaximumNodeDepth_ft": 22.983862988821137,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.83386298882114
+    },
+    {
+      "Node": "z_0512_001_018",
+      "MaximumPondedDepth_ft": 16.397889893370824,
+      "HoursFlooded": 2.1469427777777748,
+      "MaximumNodeDepth_ft": 17.547889893370822,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.397889893370824
+    },
+    {
+      "Node": "z_0512_001_019",
+      "MaximumPondedDepth_ft": 13.320055591303804,
+      "HoursFlooded": 1.7127124999999979,
+      "MaximumNodeDepth_ft": 14.470055591303804,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.320055591303804
+    },
+    {
+      "Node": "z_0512_001_020",
+      "MaximumPondedDepth_ft": 18.59761118342081,
+      "HoursFlooded": 2.0667905555555524,
+      "MaximumNodeDepth_ft": 19.74761118342081,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 18.59761118342081
+    },
+    {
+      "Node": "z_0512_001_021",
+      "MaximumPondedDepth_ft": 13.356782831855499,
+      "HoursFlooded": 1.7915444444444417,
+      "MaximumNodeDepth_ft": 14.5067828318555,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.356782831855499
+    },
+    {
+      "Node": "z_0512_001_022",
+      "MaximumPondedDepth_ft": 13.261709515073699,
+      "HoursFlooded": 1.843302499999997,
+      "MaximumNodeDepth_ft": 14.4117095150737,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.261709515073699
+    },
+    {
+      "Node": "z_0512_001_023",
+      "MaximumPondedDepth_ft": 5.1514010871658,
+      "HoursFlooded": 1.3661530555555528,
+      "MaximumNodeDepth_ft": 6.3014010871658,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 1.376491525168929
+    },
+    {
+      "Node": "z_0512_001_024",
+      "MaximumPondedDepth_ft": 33.460263708577735,
+      "HoursFlooded": 2.180156666666664,
+      "MaximumNodeDepth_ft": 34.61026370857773,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 33.460263708577735
+    },
+    {
+      "Node": "z_0512_001_025",
+      "MaximumPondedDepth_ft": 17.474099138637833,
+      "HoursFlooded": 1.5904583333333322,
+      "MaximumNodeDepth_ft": 18.62409913863783,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 17.474099138637833
+    },
+    {
+      "Node": "z_0512_001_026",
+      "MaximumPondedDepth_ft": 20.077479422194436,
+      "HoursFlooded": 2.1281124999999976,
+      "MaximumNodeDepth_ft": 21.227479422194435,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 20.077479422194436
+    },
+    {
+      "Node": "z_0512_001_027",
+      "MaximumPondedDepth_ft": 7.823060945211926,
+      "HoursFlooded": 1.9232733333333305,
+      "MaximumNodeDepth_ft": 8.973060945211927,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.823060945211926
+    },
+    {
+      "Node": "z_0512_001_028",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_029",
+      "MaximumPondedDepth_ft": 22.733639827846623,
+      "HoursFlooded": 2.0344769444444415,
+      "MaximumNodeDepth_ft": 23.883639827846622,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.733639827846623
+    },
+    {
+      "Node": "z_0512_001_030",
+      "MaximumPondedDepth_ft": 10.993510031394665,
+      "HoursFlooded": 2.0232947222222193,
+      "MaximumNodeDepth_ft": 12.143510031394666,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 10.993510031394665
+    },
+    {
+      "Node": "z_0512_001_031",
+      "MaximumPondedDepth_ft": 6.293061908945273,
+      "HoursFlooded": 1.8427758333333304,
+      "MaximumNodeDepth_ft": 7.443061908945273,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 6.293061908945273
+    },
+    {
+      "Node": "z_0512_001_032",
+      "MaximumPondedDepth_ft": 14.841335016234817,
+      "HoursFlooded": 2.0363933333333306,
+      "MaximumNodeDepth_ft": 15.991335016234817,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.841335016234817
+    },
+    {
+      "Node": "z_0512_001_033",
+      "MaximumPondedDepth_ft": 14.841335016234817,
+      "HoursFlooded": 2.0363933333333306,
+      "MaximumNodeDepth_ft": 15.991335016234817,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.841335016234817
+    },
+    {
+      "Node": "z_0512_001_034",
+      "MaximumPondedDepth_ft": 9.818552861670872,
+      "HoursFlooded": 2.0175894444444413,
+      "MaximumNodeDepth_ft": 10.968552861670872,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.818552861670872
+    },
+    {
+      "Node": "z_0512_001_035",
+      "MaximumPondedDepth_ft": 12.961807591875209,
+      "HoursFlooded": 2.1187474999999973,
+      "MaximumNodeDepth_ft": 14.111807591875209,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.961807591875209
+    },
+    {
+      "Node": "z_0512_001_036",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_037",
+      "MaximumPondedDepth_ft": 20.699113901558718,
+      "HoursFlooded": 2.173957499999997,
+      "MaximumNodeDepth_ft": 21.849113901558717,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 20.699113901558718
+    },
+    {
+      "Node": "z_0512_001_038",
+      "MaximumPondedDepth_ft": 4.366480756651857,
+      "HoursFlooded": 2.1169044444444416,
+      "MaximumNodeDepth_ft": 5.516480756651857,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 4.366480756651857
+    },
+    {
+      "Node": "z_0512_001_039",
+      "MaximumPondedDepth_ft": 9.120959421443091,
+      "HoursFlooded": 2.1069661111111078,
+      "MaximumNodeDepth_ft": 10.270959421443091,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.120959421443091
+    },
+    {
+      "Node": "z_0512_001_040",
+      "MaximumPondedDepth_ft": 2.336088264460059,
+      "HoursFlooded": 2.0768058333333306,
+      "MaximumNodeDepth_ft": 3.486088264460059,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 2.336088264460059
+    },
+    {
+      "Node": "z_0512_001_041",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_042",
+      "MaximumPondedDepth_ft": 14.16001483462715,
+      "HoursFlooded": 2.1304108333333307,
+      "MaximumNodeDepth_ft": 15.31001483462715,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.16001483462715
+    },
+    {
+      "Node": "z_0512_001_043",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_044",
+      "MaximumPondedDepth_ft": 27.324609955324554,
+      "HoursFlooded": 2.1337097222222194,
+      "MaximumNodeDepth_ft": 28.474609955324553,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 27.324609955324554
+    },
+    {
+      "Node": "z_0512_001_045",
+      "MaximumPondedDepth_ft": 0.04351079575341421,
+      "HoursFlooded": 0.3512363888888887,
+      "MaximumNodeDepth_ft": 1.1935107957534141,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_046",
+      "MaximumPondedDepth_ft": 23.792564025306007,
+      "HoursFlooded": 2.122088888888886,
+      "MaximumNodeDepth_ft": 24.942564025306005,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 23.792564025306007
+    },
+    {
+      "Node": "z_0512_001_047",
+      "MaximumPondedDepth_ft": 3.9102883891508076,
+      "HoursFlooded": 1.2525108333333335,
+      "MaximumNodeDepth_ft": 5.0602883891508075,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 3.849971914522595
+    },
+    {
+      "Node": "z_0512_001_048",
+      "MaximumPondedDepth_ft": 18.85321931326328,
+      "HoursFlooded": 2.0808249999999973,
+      "MaximumNodeDepth_ft": 20.00321931326328,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 18.85321931326328
+    },
+    {
+      "Node": "z_0512_001_049",
+      "MaximumPondedDepth_ft": 7.752018842190765,
+      "HoursFlooded": 1.4749463888888874,
+      "MaximumNodeDepth_ft": 8.902018842190765,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.7111854990367075
+    },
+    {
+      "Node": "z_0512_001_050",
+      "MaximumPondedDepth_ft": 14.65965952956129,
+      "HoursFlooded": 1.9946516666666636,
+      "MaximumNodeDepth_ft": 15.80965952956129,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.65965952956129
+    },
+    {
+      "Node": "z_0512_001_051",
+      "MaximumPondedDepth_ft": 11.803486934511943,
+      "HoursFlooded": 1.712328333333331,
+      "MaximumNodeDepth_ft": 12.953486934511943,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.505152375695348
+    },
+    {
+      "Node": "z_0512_001_052",
+      "MaximumPondedDepth_ft": 14.258752088576498,
+      "HoursFlooded": 1.9564372222222193,
+      "MaximumNodeDepth_ft": 15.408752088576499,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.258752088576498
+    },
+    {
+      "Node": "z_0512_001_053",
+      "MaximumPondedDepth_ft": 12.127515740054237,
+      "HoursFlooded": 1.7354605555555531,
+      "MaximumNodeDepth_ft": 13.277515740054238,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.03290200328494
+    },
+    {
+      "Node": "z_0512_001_054",
+      "MaximumPondedDepth_ft": 14.094955990494666,
+      "HoursFlooded": 1.8975847222222193,
+      "MaximumNodeDepth_ft": 15.244955990494667,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.094955990494666
+    },
+    {
+      "Node": "z_0512_001_055",
+      "MaximumPondedDepth_ft": 11.740942932972027,
+      "HoursFlooded": 1.73962722222222,
+      "MaximumNodeDepth_ft": 12.890942932972028,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.740942932972027
+    },
+    {
+      "Node": "z_0512_001_056",
+      "MaximumPondedDepth_ft": 13.81806219067355,
+      "HoursFlooded": 1.8918297222222193,
+      "MaximumNodeDepth_ft": 14.96806219067355,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.81806219067355
+    },
+    {
+      "Node": "z_0512_001_057",
+      "MaximumPondedDepth_ft": 10.778175358332534,
+      "HoursFlooded": 1.7368494444444422,
+      "MaximumNodeDepth_ft": 11.928175358332535,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 10.778175358332534
+    },
+    {
+      "Node": "z_0512_001_058",
+      "MaximumPondedDepth_ft": 13.62089099487162,
+      "HoursFlooded": 1.8740677777777748,
+      "MaximumNodeDepth_ft": 14.770890994871621,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.62089099487162
+    },
+    {
+      "Node": "z_0512_001_059",
+      "MaximumPondedDepth_ft": 10.438506175888323,
+      "HoursFlooded": 1.7368494444444422,
+      "MaximumNodeDepth_ft": 11.588506175888323,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 10.438506175888323
+    },
+    {
+      "Node": "z_0512_001_060",
+      "MaximumPondedDepth_ft": 13.499495609832534,
+      "HoursFlooded": 1.8537616666666636,
+      "MaximumNodeDepth_ft": 14.649495609832535,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.499495609832534
+    },
+    {
+      "Node": "z_0512_001_061",
+      "MaximumPondedDepth_ft": 9.510066697869552,
+      "HoursFlooded": 1.9930786111111083,
+      "MaximumNodeDepth_ft": 10.660066697869553,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.510066697869552
+    },
+    {
+      "Node": "z_0512_001_062",
+      "MaximumPondedDepth_ft": 9.105064034966142,
+      "HoursFlooded": 1.692544444444442,
+      "MaximumNodeDepth_ft": 10.255064034966143,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.105064034966142
+    },
+    {
+      "Node": "z_0512_001_063",
+      "MaximumPondedDepth_ft": 13.608289925317491,
+      "HoursFlooded": 1.838919722222219,
+      "MaximumNodeDepth_ft": 14.758289925317492,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.608289925317491
+    },
+    {
+      "Node": "z_0512_001_064",
+      "MaximumPondedDepth_ft": 8.609783615901181,
+      "HoursFlooded": 1.6654583333333306,
+      "MaximumNodeDepth_ft": 9.759783615901181,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.609783615901181
+    },
+    {
+      "Node": "z_0512_001_065",
+      "MaximumPondedDepth_ft": 13.705947996803333,
+      "HoursFlooded": 1.7797544444444426,
+      "MaximumNodeDepth_ft": 14.855947996803334,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.705947996803333
+    },
+    {
+      "Node": "z_0512_001_066",
+      "MaximumPondedDepth_ft": 8.476045234207865,
+      "HoursFlooded": 1.6543472222222195,
+      "MaximumNodeDepth_ft": 9.626045234207865,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.476045234207865
+    },
+    {
+      "Node": "z_0512_001_067",
+      "MaximumPondedDepth_ft": 13.670255780947732,
+      "HoursFlooded": 1.7045669444444418,
+      "MaximumNodeDepth_ft": 14.820255780947733,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.670255780947732
+    },
+    {
+      "Node": "z_0512_001_068",
+      "MaximumPondedDepth_ft": 8.645292338690906,
+      "HoursFlooded": 1.6552155555555532,
+      "MaximumNodeDepth_ft": 9.795292338690906,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.645292338690906
+    },
+    {
+      "Node": "z_0512_001_069",
+      "MaximumPondedDepth_ft": 13.6146574729836,
+      "HoursFlooded": 1.6460138888888864,
+      "MaximumNodeDepth_ft": 14.7646574729836,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.6146574729836
+    },
+    {
+      "Node": "z_0512_001_070",
+      "MaximumPondedDepth_ft": 9.324330911232957,
+      "HoursFlooded": 1.6652691666666641,
+      "MaximumNodeDepth_ft": 10.474330911232958,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.324330911232957
+    },
+    {
+      "Node": "z_0512_001_071",
+      "MaximumPondedDepth_ft": 29.856741812832283,
+      "HoursFlooded": 2.135715555555553,
+      "MaximumNodeDepth_ft": 31.00674181283228,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 29.856741812832283
+    },
+    {
+      "Node": "z_0512_001_072",
+      "MaximumPondedDepth_ft": 16.270181344858564,
+      "HoursFlooded": 1.9275208333333305,
+      "MaximumNodeDepth_ft": 17.420181344858563,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.00900127775994
+    },
+    {
+      "Node": "z_0512_001_073",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_074",
+      "MaximumPondedDepth_ft": 20.606222055084345,
+      "HoursFlooded": 1.9379297222222194,
+      "MaximumNodeDepth_ft": 21.756222055084343,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 20.606222055084345
+    },
+    {
+      "Node": "z_0512_001_075",
+      "MaximumPondedDepth_ft": 17.247136112033772,
+      "HoursFlooded": 1.987801666666664,
+      "MaximumNodeDepth_ft": 18.39713611203377,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.777300506272248
+    },
+    {
+      "Node": "z_0512_001_076",
+      "MaximumPondedDepth_ft": 9.329817863935263,
+      "HoursFlooded": 2.0257933333333304,
+      "MaximumNodeDepth_ft": 10.479817863935263,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.329817863935263
+    },
+    {
+      "Node": "z_0512_001_077",
+      "MaximumPondedDepth_ft": 12.327671942149697,
+      "HoursFlooded": 1.5751805555555545,
+      "MaximumNodeDepth_ft": 13.477671942149698,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.327671942149697
+    },
+    {
+      "Node": "z_0512_001_078",
+      "MaximumPondedDepth_ft": 5.048592184318851,
+      "HoursFlooded": 1.8385408333333304,
+      "MaximumNodeDepth_ft": 6.198592184318851,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 5.048592184318851
+    },
+    {
+      "Node": "z_0512_001_079",
+      "MaximumPondedDepth_ft": 14.037996965967254,
+      "HoursFlooded": 1.8333680555555525,
+      "MaximumNodeDepth_ft": 15.187996965967255,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.037996965967254
+    },
+    {
+      "Node": "z_0512_001_080",
+      "MaximumPondedDepth_ft": 17.64593011800838,
+      "HoursFlooded": 2.047948611111108,
+      "MaximumNodeDepth_ft": 18.79593011800838,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 17.64593011800838
+    },
+    {
+      "Node": "z_0512_001_081",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_082",
+      "MaximumPondedDepth_ft": 7.591495364247082,
+      "HoursFlooded": 2.09548333333333,
+      "MaximumNodeDepth_ft": 8.741495364247083,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.591495364247082
+    },
+    {
+      "Node": "z_0512_001_083",
+      "MaximumPondedDepth_ft": 26.615967303365153,
+      "HoursFlooded": 2.0958544444444414,
+      "MaximumNodeDepth_ft": 27.76596730336515,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 26.615967303365153
+    },
+    {
+      "Node": "z_0512_001_084",
+      "MaximumPondedDepth_ft": 22.658593906198234,
+      "HoursFlooded": 2.052009999999997,
+      "MaximumNodeDepth_ft": 23.808593906198233,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.658593906198234
+    },
+    {
+      "Node": "z_0512_001_085",
+      "MaximumPondedDepth_ft": 16.29512640029956,
+      "HoursFlooded": 1.9557683333333304,
+      "MaximumNodeDepth_ft": 17.445126400299557,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.29512640029956
+    },
+    {
+      "Node": "z_0512_001_086",
+      "MaximumPondedDepth_ft": 25.008719634239945,
+      "HoursFlooded": 2.0981413888888856,
+      "MaximumNodeDepth_ft": 26.158719634239944,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 25.008719634239945
+    },
+    {
+      "Node": "z_0512_001_087",
+      "MaximumPondedDepth_ft": 11.39908521710685,
+      "HoursFlooded": 1.8678099999999969,
+      "MaximumNodeDepth_ft": 12.54908521710685,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.39908521710685
+    },
+    {
+      "Node": "z_0512_001_088",
+      "MaximumPondedDepth_ft": 28.13199711769261,
+      "HoursFlooded": 2.152163888888886,
+      "MaximumNodeDepth_ft": 29.281997117692608,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 28.11781961981103
+    },
+    {
+      "Node": "z_0512_001_089",
+      "MaximumPondedDepth_ft": 8.792531527790072,
+      "HoursFlooded": 1.5291727777777768,
+      "MaximumNodeDepth_ft": 9.942531527790072,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.412731038910943
+    },
+    {
+      "Node": "z_0512_001_090",
+      "MaximumPondedDepth_ft": 2.5735623010797792,
+      "HoursFlooded": 1.4465566666666647,
+      "MaximumNodeDepth_ft": 3.723562301079779,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 2.4769188209376156
+    },
+    {
+      "Node": "z_0512_001_091",
+      "MaximumPondedDepth_ft": 17.23594596749043,
+      "HoursFlooded": 2.047052499999997,
+      "MaximumNodeDepth_ft": 18.38594596749043,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 17.23594596749043
+    },
+    {
+      "Node": "z_0512_001_092",
+      "MaximumPondedDepth_ft": 23.176534948876885,
+      "HoursFlooded": 2.151713888888886,
+      "MaximumNodeDepth_ft": 24.326534948876883,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 23.176534948876885
+    },
+    {
+      "Node": "z_0512_001_093",
+      "MaximumPondedDepth_ft": 3.6220829538020927,
+      "HoursFlooded": 1.179747500000001,
+      "MaximumNodeDepth_ft": 4.772082953802093,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_094",
+      "MaximumPondedDepth_ft": 15.07627379184711,
+      "HoursFlooded": 1.7256330555555532,
+      "MaximumNodeDepth_ft": 16.22627379184711,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.075874169023768
+    },
+    {
+      "Node": "z_0512_001_095",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_096",
+      "MaximumPondedDepth_ft": 8.996454620005684,
+      "HoursFlooded": 1.755758611111109,
+      "MaximumNodeDepth_ft": 10.146454620005684,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.996454620005684
+    },
+    {
+      "Node": "z_0512_001_097",
+      "MaximumPondedDepth_ft": 37.14573107114317,
+      "HoursFlooded": 2.1360855555555527,
+      "MaximumNodeDepth_ft": 38.295731071143166,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 37.14573107114317
+    },
+    {
+      "Node": "z_0512_001_098",
+      "MaximumPondedDepth_ft": 15.64998543795817,
+      "HoursFlooded": 2.056107777777775,
+      "MaximumNodeDepth_ft": 16.79998543795817,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.64998543795817
+    },
+    {
+      "Node": "z_0512_001_099",
+      "MaximumPondedDepth_ft": 9.16110148704504,
+      "HoursFlooded": 1.445167777777776,
+      "MaximumNodeDepth_ft": 10.31110148704504,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 8.45603656853775
+    },
+    {
+      "Node": "z_0512_001_100",
+      "MaximumPondedDepth_ft": 11.710712717616948,
+      "HoursFlooded": 1.875956111111108,
+      "MaximumNodeDepth_ft": 12.860712717616948,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.710487668032775
+    },
+    {
+      "Node": "z_0512_001_101",
+      "MaximumPondedDepth_ft": 2.7448185130799425,
+      "HoursFlooded": 1.4285011111111092,
+      "MaximumNodeDepth_ft": 3.8948185130799424,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 2.626922245911739
+    },
+    {
+      "Node": "z_0512_001_102",
+      "MaximumPondedDepth_ft": 13.10635559766134,
+      "HoursFlooded": 1.7316880555555532,
+      "MaximumNodeDepth_ft": 14.25635559766134,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.10635559766134
+    },
+    {
+      "Node": "z_0512_001_103",
+      "MaximumPondedDepth_ft": 6.449200704730584,
+      "HoursFlooded": 1.8600069444444414,
+      "MaximumNodeDepth_ft": 7.599200704730585,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 6.449200704730584
+    },
+    {
+      "Node": "z_0512_001_104",
+      "MaximumPondedDepth_ft": 17.23479039759347,
+      "HoursFlooded": 2.062359166666664,
+      "MaximumNodeDepth_ft": 18.38479039759347,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 17.23479039759347
+    },
+    {
+      "Node": "z_0512_001_105",
+      "MaximumPondedDepth_ft": 15.888536275432797,
+      "HoursFlooded": 2.063468888888886,
+      "MaximumNodeDepth_ft": 17.038536275432797,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.888536275432797
+    },
+    {
+      "Node": "z_0512_001_106",
+      "MaximumPondedDepth_ft": 27.682834209964668,
+      "HoursFlooded": 2.158977777777775,
+      "MaximumNodeDepth_ft": 28.832834209964666,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 27.682834209964668
+    },
+    {
+      "Node": "z_0512_001_107",
+      "MaximumPondedDepth_ft": 25.51108680491417,
+      "HoursFlooded": 2.1493083333333307,
+      "MaximumNodeDepth_ft": 26.66108680491417,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 25.51108680491417
+    },
+    {
+      "Node": "z_0512_001_108",
+      "MaximumPondedDepth_ft": 16.10370411096769,
+      "HoursFlooded": 2.081831666666664,
+      "MaximumNodeDepth_ft": 17.25370411096769,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.10370411096769
+    },
+    {
+      "Node": "z_0512_001_109",
+      "MaximumPondedDepth_ft": 15.752536206984251,
+      "HoursFlooded": 2.0599136111111083,
+      "MaximumNodeDepth_ft": 16.90253620698425,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.752536206984251
+    },
+    {
+      "Node": "z_0512_001_110",
+      "MaximumPondedDepth_ft": 20.60303862408123,
+      "HoursFlooded": 2.0996736111111076,
+      "MaximumNodeDepth_ft": 21.753038624081228,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 20.60303862408123
+    },
+    {
+      "Node": "z_0512_001_111",
+      "MaximumPondedDepth_ft": 15.713626372152616,
+      "HoursFlooded": 1.9324749999999973,
+      "MaximumNodeDepth_ft": 16.863626372152616,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.713626372152616
+    },
+    {
+      "Node": "z_0512_001_112",
+      "MaximumPondedDepth_ft": 14.549977423500943,
+      "HoursFlooded": 2.102521388888886,
+      "MaximumNodeDepth_ft": 15.699977423500943,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.549977423500943
+    },
+    {
+      "Node": "z_0512_001_113",
+      "MaximumPondedDepth_ft": 7.652211441238345,
+      "HoursFlooded": 2.0111955555555525,
+      "MaximumNodeDepth_ft": 8.802211441238345,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.652211441238345
+    },
+    {
+      "Node": "z_0512_001_114",
+      "MaximumPondedDepth_ft": 9.53168364077244,
+      "HoursFlooded": 2.0377127777777746,
+      "MaximumNodeDepth_ft": 10.681683640772441,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.53168364077244
+    },
+    {
+      "Node": "z_0512_001_115",
+      "MaximumPondedDepth_ft": 9.561845767533734,
+      "HoursFlooded": 1.8909274999999972,
+      "MaximumNodeDepth_ft": 10.711845767533735,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.561845767533734
+    },
+    {
+      "Node": "z_0512_001_116",
+      "MaximumPondedDepth_ft": 26.11581207246641,
+      "HoursFlooded": 2.1547322222222194,
+      "MaximumNodeDepth_ft": 27.26581207246641,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 26.11581207246641
+    },
+    {
+      "Node": "z_0512_001_117",
+      "MaximumPondedDepth_ft": 21.11031454996445,
+      "HoursFlooded": 2.070308888888886,
+      "MaximumNodeDepth_ft": 22.26031454996445,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.11031454996445
+    },
+    {
+      "Node": "z_0512_001_118",
+      "MaximumPondedDepth_ft": 15.26334048430538,
+      "HoursFlooded": 2.0629105555555527,
+      "MaximumNodeDepth_ft": 16.41334048430538,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.26334048430538
+    },
+    {
+      "Node": "z_0512_001_119",
+      "MaximumPondedDepth_ft": 30.543892367996662,
+      "HoursFlooded": 2.0878055555555526,
+      "MaximumNodeDepth_ft": 31.69389236799666,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 30.543892367996662
+    },
+    {
+      "Node": "z_0512_001_120",
+      "MaximumPondedDepth_ft": 21.944148758691696,
+      "HoursFlooded": 2.0726458333333304,
+      "MaximumNodeDepth_ft": 23.094148758691695,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.944148758691696
+    },
+    {
+      "Node": "z_0512_001_121",
+      "MaximumPondedDepth_ft": 22.132694952681256,
+      "HoursFlooded": 2.067612499999997,
+      "MaximumNodeDepth_ft": 23.282694952681254,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 22.132694952681256
+    },
+    {
+      "Node": "z_0512_001_122",
+      "MaximumPondedDepth_ft": 9.350594712228935,
+      "HoursFlooded": 1.9701627777777748,
+      "MaximumNodeDepth_ft": 10.500594712228935,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 9.350594712228935
+    },
+    {
+      "Node": "z_0512_001_123",
+      "MaximumPondedDepth_ft": 13.36768505267593,
+      "HoursFlooded": 1.9858836111111082,
+      "MaximumNodeDepth_ft": 14.51768505267593,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.36768505267593
+    },
+    {
+      "Node": "z_0512_001_124",
+      "MaximumPondedDepth_ft": 13.807068230318448,
+      "HoursFlooded": 1.985367777777775,
+      "MaximumNodeDepth_ft": 14.957068230318448,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.807068230318448
+    },
+    {
+      "Node": "z_0512_001_125",
+      "MaximumPondedDepth_ft": 6.952084685983317,
+      "HoursFlooded": 1.9748780555555527,
+      "MaximumNodeDepth_ft": 8.102084685983318,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 6.952084685983317
+    },
+    {
+      "Node": "z_0512_001_126",
+      "MaximumPondedDepth_ft": 4.232960469978458,
+      "HoursFlooded": 1.9618355555555527,
+      "MaximumNodeDepth_ft": 5.382960469978459,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 4.232960469978458
+    },
+    {
+      "Node": "z_0512_001_127",
+      "MaximumPondedDepth_ft": 23.65203801867385,
+      "HoursFlooded": 2.078477499999997,
+      "MaximumNodeDepth_ft": 24.802038018673848,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 23.65203801867385
+    },
+    {
+      "Node": "z_0512_001_128",
+      "MaximumPondedDepth_ft": 5.471801853800395,
+      "HoursFlooded": 1.4119863888888868,
+      "MaximumNodeDepth_ft": 6.621801853800394,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 3.328457384704493
+    },
+    {
+      "Node": "z_0512_001_129",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_130",
+      "MaximumPondedDepth_ft": 7.203789041005127,
+      "HoursFlooded": 1.4735574999999985,
+      "MaximumNodeDepth_ft": 8.353789041005127,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 6.440131964823726
+    },
+    {
+      "Node": "z_0512_001_131",
+      "MaximumPondedDepth_ft": 11.501572966353228,
+      "HoursFlooded": 2.070863611111108,
+      "MaximumNodeDepth_ft": 12.651572966353228,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.501572966353228
+    },
+    {
+      "Node": "z_0512_001_132",
+      "MaximumPondedDepth_ft": 11.9864504286114,
+      "HoursFlooded": 1.998428888888886,
+      "MaximumNodeDepth_ft": 13.1364504286114,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 11.9864504286114
+    },
+    {
+      "Node": "z_0512_001_133",
+      "MaximumPondedDepth_ft": 17.0001586611155,
+      "HoursFlooded": 1.7786805555555536,
+      "MaximumNodeDepth_ft": 18.150158661115498,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 17.0001586611155
+    },
+    {
+      "Node": "z_0512_001_134",
+      "MaximumPondedDepth_ft": 0.0,
+      "HoursFlooded": 0.0,
+      "MaximumNodeDepth_ft": 0.0,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_135",
+      "MaximumPondedDepth_ft": 12.774225405012695,
+      "HoursFlooded": 2.002242777777775,
+      "MaximumNodeDepth_ft": 13.924225405012695,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.774225405012695
+    },
+    {
+      "Node": "z_0512_001_136",
+      "MaximumPondedDepth_ft": 12.774225405012695,
+      "HoursFlooded": 2.002242777777775,
+      "MaximumNodeDepth_ft": 13.924225405012695,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.774225405012695
+    },
+    {
+      "Node": "z_0512_001_137",
+      "MaximumPondedDepth_ft": 14.39580395712557,
+      "HoursFlooded": 1.9471613888888861,
+      "MaximumNodeDepth_ft": 15.545803957125571,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.39580395712557
+    },
+    {
+      "Node": "z_0512_001_138",
+      "MaximumPondedDepth_ft": 15.788809007871135,
+      "HoursFlooded": 1.947695277777775,
+      "MaximumNodeDepth_ft": 16.938809007871136,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 15.788809007871135
+    },
+    {
+      "Node": "z_0512_001_139",
+      "MaximumPondedDepth_ft": 28.923666581435548,
+      "HoursFlooded": 2.114778611111108,
+      "MaximumNodeDepth_ft": 30.073666581435546,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 28.923666581435548
+    },
+    {
+      "Node": "z_0512_001_140",
+      "MaximumPondedDepth_ft": 14.913920743843482,
+      "HoursFlooded": 1.6787586111111084,
+      "MaximumNodeDepth_ft": 16.063920743843482,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.559249800053651
+    },
+    {
+      "Node": "z_0512_001_141",
+      "MaximumPondedDepth_ft": 18.316420926993445,
+      "HoursFlooded": 1.987576111111108,
+      "MaximumNodeDepth_ft": 19.466420926993443,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 18.316420926993445
+    },
+    {
+      "Node": "z_0512_001_142",
+      "MaximumPondedDepth_ft": 0.6615226818729703,
+      "HoursFlooded": 1.2452558333333341,
+      "MaximumNodeDepth_ft": 1.8115226818729702,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_143",
+      "MaximumPondedDepth_ft": 30.50125943702828,
+      "HoursFlooded": 1.8199680555555526,
+      "MaximumNodeDepth_ft": 31.65125943702828,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 30.50125943702828
+    },
+    {
+      "Node": "z_0512_001_144",
+      "MaximumPondedDepth_ft": 0.8165110019087789,
+      "HoursFlooded": 1.0830572222222223,
+      "MaximumNodeDepth_ft": 1.9665110019087788,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 0.0
+    },
+    {
+      "Node": "z_0512_001_145",
+      "MaximumPondedDepth_ft": 14.67396604147819,
+      "HoursFlooded": 1.6773697222222195,
+      "MaximumNodeDepth_ft": 15.82396604147819,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.42384624972008
+    },
+    {
+      "Node": "z_0512_001_146",
+      "MaximumPondedDepth_ft": 13.243308300160857,
+      "HoursFlooded": 1.9413524999999971,
+      "MaximumNodeDepth_ft": 14.393308300160857,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.243308300160857
+    },
+    {
+      "Node": "z_0512_001_147",
+      "MaximumPondedDepth_ft": 7.712028199464461,
+      "HoursFlooded": 2.1380047222222194,
+      "MaximumNodeDepth_ft": 8.862028199464461,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.712028199464461
+    },
+    {
+      "Node": "z_0512_001_148",
+      "MaximumPondedDepth_ft": 14.058514993567323,
+      "HoursFlooded": 1.951549999999997,
+      "MaximumNodeDepth_ft": 15.208514993567324,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.058514993567323
+    },
+    {
+      "Node": "z_0512_001_149",
+      "MaximumPondedDepth_ft": 24.832575086569122,
+      "HoursFlooded": 2.123835555555553,
+      "MaximumNodeDepth_ft": 25.98257508656912,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 24.832575086569122
+    },
+    {
+      "Node": "z_0512_001_150",
+      "MaximumPondedDepth_ft": 10.672408709849774,
+      "HoursFlooded": 2.138844722222219,
+      "MaximumNodeDepth_ft": 11.822408709849775,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 10.672408709849774
+    },
+    {
+      "Node": "z_0512_001_151",
+      "MaximumPondedDepth_ft": 13.532952869193258,
+      "HoursFlooded": 1.942822777777775,
+      "MaximumNodeDepth_ft": 14.682952869193258,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.532952869193258
+    },
+    {
+      "Node": "z_0512_001_152",
+      "MaximumPondedDepth_ft": 13.29304482779447,
+      "HoursFlooded": 1.940391111111108,
+      "MaximumNodeDepth_ft": 14.44304482779447,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.29304482779447
+    },
+    {
+      "Node": "z_0512_001_153",
+      "MaximumPondedDepth_ft": 13.29910246992389,
+      "HoursFlooded": 1.9360786111111083,
+      "MaximumNodeDepth_ft": 14.44910246992389,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.29910246992389
+    },
+    {
+      "Node": "z_0512_001_154",
+      "MaximumPondedDepth_ft": 13.595948078959973,
+      "HoursFlooded": 1.928941111111108,
+      "MaximumNodeDepth_ft": 14.745948078959973,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.595948078959973
+    },
+    {
+      "Node": "z_0512_001_155",
+      "MaximumPondedDepth_ft": 16.803930008895193,
+      "HoursFlooded": 1.9251969444444417,
+      "MaximumNodeDepth_ft": 17.953930008895192,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.803930008895193
+    },
+    {
+      "Node": "z_0512_001_156",
+      "MaximumPondedDepth_ft": 20.057617188508367,
+      "HoursFlooded": 1.8799522222222194,
+      "MaximumNodeDepth_ft": 21.207617188508365,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 20.057617188508367
+    },
+    {
+      "Node": "z_0512_001_157",
+      "MaximumPondedDepth_ft": 20.82564756205479,
+      "HoursFlooded": 1.9447424999999972,
+      "MaximumNodeDepth_ft": 21.97564756205479,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 20.82564756205479
+    },
+    {
+      "Node": "z_0512_001_158",
+      "MaximumPondedDepth_ft": 21.200985374795017,
+      "HoursFlooded": 1.9670872222222195,
+      "MaximumNodeDepth_ft": 22.350985374795016,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.200985374795017
+    },
+    {
+      "Node": "z_0512_001_159",
+      "MaximumPondedDepth_ft": 21.587408608013767,
+      "HoursFlooded": 1.9762111111111083,
+      "MaximumNodeDepth_ft": 22.737408608013766,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.587408608013767
+    },
+    {
+      "Node": "z_0512_001_160",
+      "MaximumPondedDepth_ft": 12.487595483880567,
+      "HoursFlooded": 1.9365566666666638,
+      "MaximumNodeDepth_ft": 13.637595483880567,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.487595483880567
+    },
+    {
+      "Node": "z_0512_001_161",
+      "MaximumPondedDepth_ft": 16.140506917953104,
+      "HoursFlooded": 2.131585555555553,
+      "MaximumNodeDepth_ft": 17.290506917953103,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 16.140506917953104
+    },
+    {
+      "Node": "z_0512_001_162",
+      "MaximumPondedDepth_ft": 12.353404236427314,
+      "HoursFlooded": 1.9346461111111082,
+      "MaximumNodeDepth_ft": 13.503404236427315,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.353404236427314
+    },
+    {
+      "Node": "z_0512_001_163",
+      "MaximumPondedDepth_ft": 27.587539155227454,
+      "HoursFlooded": 2.134497499999997,
+      "MaximumNodeDepth_ft": 28.737539155227452,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 27.587539155227454
+    },
+    {
+      "Node": "z_0512_001_164",
+      "MaximumPondedDepth_ft": 12.576378932505675,
+      "HoursFlooded": 1.9341691666666636,
+      "MaximumNodeDepth_ft": 13.726378932505675,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.576378932505675
+    },
+    {
+      "Node": "z_0512_001_165",
+      "MaximumPondedDepth_ft": 24.023426332778214,
+      "HoursFlooded": 2.1232530555555527,
+      "MaximumNodeDepth_ft": 25.173426332778213,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 24.023426332778214
+    },
+    {
+      "Node": "z_0512_001_166",
+      "MaximumPondedDepth_ft": 12.805121485536064,
+      "HoursFlooded": 1.9332161111111081,
+      "MaximumNodeDepth_ft": 13.955121485536065,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 12.805121485536064
+    },
+    {
+      "Node": "z_0512_001_167",
+      "MaximumPondedDepth_ft": 19.03127970633154,
+      "HoursFlooded": 2.0758772222222195,
+      "MaximumNodeDepth_ft": 20.181279706331537,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 19.03127970633154
+    },
+    {
+      "Node": "z_0512_001_168",
+      "MaximumPondedDepth_ft": 13.020846750022192,
+      "HoursFlooded": 1.9317886111111082,
+      "MaximumNodeDepth_ft": 14.170846750022193,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.020846750022192
+    },
+    {
+      "Node": "z_0512_001_169",
+      "MaximumPondedDepth_ft": 14.52882077630847,
+      "HoursFlooded": 1.9953319444444413,
+      "MaximumNodeDepth_ft": 15.67882077630847,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.52882077630847
+    },
+    {
+      "Node": "z_0512_001_170",
+      "MaximumPondedDepth_ft": 5.164213226832855,
+      "HoursFlooded": 1.4203197222222201,
+      "MaximumNodeDepth_ft": 6.314213226832855,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 3.7018622502476153
+    },
+    {
+      "Node": "z_0512_001_171",
+      "MaximumPondedDepth_ft": 14.133273858078839,
+      "HoursFlooded": 1.9564766666666638,
+      "MaximumNodeDepth_ft": 15.28327385807884,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.133273858078839
+    },
+    {
+      "Node": "z_0512_001_172",
+      "MaximumPondedDepth_ft": 13.737219113247614,
+      "HoursFlooded": 1.9303636111111082,
+      "MaximumNodeDepth_ft": 14.887219113247614,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.737219113247614
+    },
+    {
+      "Node": "z_0512_001_173",
+      "MaximumPondedDepth_ft": 14.451390538982194,
+      "HoursFlooded": 1.9284866666666638,
+      "MaximumNodeDepth_ft": 15.601390538982194,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 14.451390538982194
+    },
+    {
+      "Node": "z_0512_001_174",
+      "MaximumPondedDepth_ft": 31.304139741451912,
+      "HoursFlooded": 2.0729758333333304,
+      "MaximumNodeDepth_ft": 32.45413974145191,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 31.304139741451912
+    },
+    {
+      "Node": "z_0512_001_175",
+      "MaximumPondedDepth_ft": 13.697248759468357,
+      "HoursFlooded": 1.893625277777775,
+      "MaximumNodeDepth_ft": 14.847248759468357,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.697248759468357
+    },
+    {
+      "Node": "z_0512_001_176",
+      "MaximumPondedDepth_ft": 17.77967399817176,
+      "HoursFlooded": 1.9270999999999971,
+      "MaximumNodeDepth_ft": 18.929673998171758,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 17.77967399817176
+    },
+    {
+      "Node": "z_0512_001_177",
+      "MaximumPondedDepth_ft": 13.502290320338348,
+      "HoursFlooded": 1.8773780555555526,
+      "MaximumNodeDepth_ft": 14.652290320338349,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.502290320338348
+    },
+    {
+      "Node": "z_0512_001_178",
+      "MaximumPondedDepth_ft": 13.15508909333222,
+      "HoursFlooded": 1.870074999999997,
+      "MaximumNodeDepth_ft": 14.30508909333222,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 13.15508909333222
+    },
+    {
+      "Node": "z_0512_001_179",
+      "MaximumPondedDepth_ft": 31.035151328060643,
+      "HoursFlooded": 1.9412572222222193,
+      "MaximumNodeDepth_ft": 32.18515132806064,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 30.9904631884504
+    },
+    {
+      "Node": "z_0512_001_180",
+      "MaximumPondedDepth_ft": 21.310037603014678,
+      "HoursFlooded": 1.880627777777775,
+      "MaximumNodeDepth_ft": 22.460037603014676,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 21.310037603014678
+    },
+    {
+      "Node": "z_0512_001_181",
+      "MaximumPondedDepth_ft": 7.855507271538434,
+      "HoursFlooded": 1.9365588888888858,
+      "MaximumNodeDepth_ft": 9.005507271538434,
+      "FullDepth_ft": 1.15,
+      "FinalPondedDepth_ft": 7.46981713027243
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "population_size": 100,
+  "generations": 50,
+  "seed": 7,
+  "workers": 8,
+  "replacement_budget_usd": 228499.91,
+  "max_enlarged_pipes": 112,
+  "continuity_error_limit_pct": 5.0,
+  "max_steps_not_converging_pct": 5.0,
+  "simulation_timeout_seconds": 120,
+  "durable_every": 5,
+  "cost_equation": "11.7 + 0.51 * diameter_inches ** 1.38, USD/ft",
+  "cost_scope": "Full new-pipe component cost for diameter increases relative to A only",
+  "price_basis_year": 1997,
+  "extrapolation_allowed": true,
+  "fitted_diameter_range_inches": [12, 54],
+  "maximum_diameter_mm": 2000,
+  "volume_constraint_active": false,
+  "candidate_report_policy": "Native summary sections and aggregate metrics retained; full reports and node metrics for final A, B and C201"
+}

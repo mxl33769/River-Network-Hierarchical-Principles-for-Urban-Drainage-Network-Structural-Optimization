@@ -1,0 +1,38 @@
+{
+  "common_junctions": 521,
+  "all_node_ids": 531,
+  "excluded_from_common": [
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350"
+  ],
+  "new_C201_outfalls": [
+    "341",
+    "343",
+    "344",
+    "348",
+    "350"
+  ],
+  "original_outfall": "347",
+  "positive_difference": "Reference minus target; positive means improvement in target",
+  "depth_definition": "Maximum node depth minus model full depth, floored at zero; zero for nodes not flooded",
+  "duration_definition": "Native SWMM timeFlooded statistic in hours within the shared 3-hour event",
+  "classification_tolerance_depth_ft": 0.01,
+  "classification_tolerance_time_h": 0.016666666666666666,
+  "threshold_interpretation": "Descriptive plotting tolerances, not statistical significance or calibrated numerical uncertainty",
+  "continuous_scale": "Symmetric shared limits per metric, 99th percentile of absolute reductions across all 3 pairs; tails flagged",
+  "C201_numerical_caution": "6.73% nonconverging steps exceeds B 5% screening limit; retained reference, comparative results provisional",
+  "model_B_identity": "New cost-constrained B; previous volume-constrained B is not plotted",
+  "input_sha256": {
+    "A": "1a0b7f4d3bde8ff667156b62ceab0a595e3773b664679fae3c9030104db23bb5",
+    "B": "008c43ab94ee994f6ddc3544dcb609ffd952126db9384c456c04127bd3f7242e",
+    "C201": "f4e8430b88520d8879cb3863b1dffb8644a290c9b919605b94ed411c6b17ca85"
+  }
+}

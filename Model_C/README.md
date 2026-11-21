@@ -2,8 +2,6 @@
 
 Extract directly into a short directory such as C:\BC. The archive contains one folder named Model C. Basenames are at most 24 characters and paths are shallow. Ordinary ZIP deflate is used. A deep destination path can still exceed Windows limits; native Windows execution was not tested.
 
-Start with docs/Insert_Guide.docx. Manuscript drafts use saved native outputs and a fixed 521-junction comparison, rather than the conflicting edited manuscript table values. C means C201; B means the cost-constrained e04701 design. The archived INPs and native metrics are unchanged. No optimization or new hydraulic simulation was performed during this organization/reanalysis step.
-
 Current figures/data are in current/. All current PNGs are 600 dpi. docs/ contains the four Word drafts, captions, provenance and authoring source. inventory.csv lists the persistent source collection, including earlier archives retained separately. This portable package consolidates the current model and recovered evidence; it does not duplicate every historical backup archive.
 
 - run/: accepted C201 generator, A/C input and output, diameter/elevation/path/grade tables, native sensitivity checks, design logs and checkpoints. Its B reference is the earlier volume-budget B, not the cost-B used in current/.
